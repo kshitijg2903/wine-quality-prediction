@@ -1,0 +1,17 @@
+{"time":"2024-11-29T20:03:11.2054178+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T20:03:11.2054178+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_200311-ily2vbz2\\logs\\debug-core.log"}
+{"time":"2024-11-29T20:03:11.3203991+05:30","level":"INFO","msg":"created new stream","id":"ily2vbz2"}
+{"time":"2024-11-29T20:03:11.3209172+05:30","level":"INFO","msg":"handler: started","stream_id":"ily2vbz2"}
+{"time":"2024-11-29T20:03:11.3209172+05:30","level":"INFO","msg":"stream: started","id":"ily2vbz2"}
+{"time":"2024-11-29T20:03:11.3209172+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ily2vbz2"}
+{"time":"2024-11-29T20:03:11.3209172+05:30","level":"INFO","msg":"sender: started","stream_id":"ily2vbz2"}
+{"time":"2024-11-29T20:03:11.701253+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T20:03:16.5972279+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T20:03:16.5977391+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T20:03:17.607915+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.6541151},{"desc":"uploading config.yaml","runtime_seconds":0.3105564,"progress":"757B/757B"},{"desc":"uploading output.log","runtime_seconds":0.3105564,"progress":"10.2KB/10.2KB"}],"total_operations":3}}
+{"time":"2024-11-29T20:03:18.0085097+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T20:03:19.4776691+05:30","level":"INFO","msg":"stream: closing","id":"ily2vbz2"}
+{"time":"2024-11-29T20:03:19.4776691+05:30","level":"INFO","msg":"handler: closed","stream_id":"ily2vbz2"}
+{"time":"2024-11-29T20:03:19.4776691+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ily2vbz2"}
+{"time":"2024-11-29T20:03:19.4776691+05:30","level":"INFO","msg":"sender: closed","stream_id":"ily2vbz2"}
+{"time":"2024-11-29T20:03:19.4780737+05:30","level":"INFO","msg":"stream: closed","id":"ily2vbz2"}

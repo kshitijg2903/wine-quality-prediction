@@ -1,0 +1,18 @@
+{"time":"2024-11-29T20:15:17.0901499+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T20:15:17.0901499+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_201517-drxuuk90\\logs\\debug-core.log"}
+{"time":"2024-11-29T20:15:17.2027587+05:30","level":"INFO","msg":"created new stream","id":"drxuuk90"}
+{"time":"2024-11-29T20:15:17.2027587+05:30","level":"INFO","msg":"stream: started","id":"drxuuk90"}
+{"time":"2024-11-29T20:15:17.2027587+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"drxuuk90"}
+{"time":"2024-11-29T20:15:17.2027587+05:30","level":"INFO","msg":"handler: started","stream_id":"drxuuk90"}
+{"time":"2024-11-29T20:15:17.2027587+05:30","level":"INFO","msg":"sender: started","stream_id":"drxuuk90"}
+{"time":"2024-11-29T20:15:17.5944082+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T20:15:27.595795+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-11-29T20:15:58.9243637+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T20:15:58.9255603+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T20:15:59.933651+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.6810241},{"desc":"uploading config.yaml","runtime_seconds":0.3232096,"progress":"757B/757B"},{"desc":"uploading output.log","runtime_seconds":0.3232096,"progress":"24.5KB/24.5KB"}],"total_operations":3}}
+{"time":"2024-11-29T20:16:02.571928+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T20:16:04.109558+05:30","level":"INFO","msg":"stream: closing","id":"drxuuk90"}
+{"time":"2024-11-29T20:16:04.109558+05:30","level":"INFO","msg":"handler: closed","stream_id":"drxuuk90"}
+{"time":"2024-11-29T20:16:04.109558+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"drxuuk90"}
+{"time":"2024-11-29T20:16:04.109558+05:30","level":"INFO","msg":"sender: closed","stream_id":"drxuuk90"}
+{"time":"2024-11-29T20:16:04.109558+05:30","level":"INFO","msg":"stream: closed","id":"drxuuk90"}

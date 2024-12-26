@@ -1,0 +1,17 @@
+{"time":"2024-11-29T13:06:08.8786189+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T13:06:08.8786189+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_130608-sp34am2y\\logs\\debug-core.log"}
+{"time":"2024-11-29T13:06:09.0024073+05:30","level":"INFO","msg":"created new stream","id":"sp34am2y"}
+{"time":"2024-11-29T13:06:09.0024073+05:30","level":"INFO","msg":"stream: started","id":"sp34am2y"}
+{"time":"2024-11-29T13:06:09.0024073+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"sp34am2y"}
+{"time":"2024-11-29T13:06:09.0024073+05:30","level":"INFO","msg":"handler: started","stream_id":"sp34am2y"}
+{"time":"2024-11-29T13:06:09.0024073+05:30","level":"INFO","msg":"sender: started","stream_id":"sp34am2y"}
+{"time":"2024-11-29T13:06:09.424457+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T13:06:13.0181304+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T13:06:13.0186361+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T13:06:14.0199054+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.6850549},{"desc":"uploading config.yaml","runtime_seconds":0.3448961,"progress":"819B/819B"},{"desc":"uploading output.log","runtime_seconds":0.3448961,"progress":"4.4KB/4.4KB"}],"total_operations":3}}
+{"time":"2024-11-29T13:06:16.8561517+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T13:06:18.2580295+05:30","level":"INFO","msg":"stream: closing","id":"sp34am2y"}
+{"time":"2024-11-29T13:06:18.2580295+05:30","level":"INFO","msg":"handler: closed","stream_id":"sp34am2y"}
+{"time":"2024-11-29T13:06:18.2580295+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"sp34am2y"}
+{"time":"2024-11-29T13:06:18.2580295+05:30","level":"INFO","msg":"sender: closed","stream_id":"sp34am2y"}
+{"time":"2024-11-29T13:06:18.2590273+05:30","level":"INFO","msg":"stream: closed","id":"sp34am2y"}

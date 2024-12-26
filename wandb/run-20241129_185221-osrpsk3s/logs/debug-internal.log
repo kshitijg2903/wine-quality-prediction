@@ -1,0 +1,17 @@
+{"time":"2024-11-29T18:52:21.1320686+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T18:52:21.1322108+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_185221-osrpsk3s\\logs\\debug-core.log"}
+{"time":"2024-11-29T18:52:21.24851+05:30","level":"INFO","msg":"created new stream","id":"osrpsk3s"}
+{"time":"2024-11-29T18:52:21.2490218+05:30","level":"INFO","msg":"stream: started","id":"osrpsk3s"}
+{"time":"2024-11-29T18:52:21.2490218+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"osrpsk3s"}
+{"time":"2024-11-29T18:52:21.2490218+05:30","level":"INFO","msg":"sender: started","stream_id":"osrpsk3s"}
+{"time":"2024-11-29T18:52:21.2490218+05:30","level":"INFO","msg":"handler: started","stream_id":"osrpsk3s"}
+{"time":"2024-11-29T18:52:21.9023448+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T18:52:26.1183708+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T18:52:26.1189035+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T18:52:27.12577+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.6730756},{"desc":"uploading config.yaml","runtime_seconds":0.3205065,"progress":"757B/757B"},{"desc":"uploading output.log","runtime_seconds":0.3205065,"progress":"10.1KB/10.1KB"}],"total_operations":3}}
+{"time":"2024-11-29T18:52:27.4721543+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T18:52:28.9760678+05:30","level":"INFO","msg":"stream: closing","id":"osrpsk3s"}
+{"time":"2024-11-29T18:52:28.9760678+05:30","level":"INFO","msg":"handler: closed","stream_id":"osrpsk3s"}
+{"time":"2024-11-29T18:52:28.9760678+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"osrpsk3s"}
+{"time":"2024-11-29T18:52:28.9760678+05:30","level":"INFO","msg":"sender: closed","stream_id":"osrpsk3s"}
+{"time":"2024-11-29T18:52:28.9760678+05:30","level":"INFO","msg":"stream: closed","id":"osrpsk3s"}

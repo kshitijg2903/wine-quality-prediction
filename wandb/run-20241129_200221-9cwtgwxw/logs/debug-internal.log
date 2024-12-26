@@ -1,0 +1,17 @@
+{"time":"2024-11-29T20:02:21.033268+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T20:02:21.033268+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_200221-9cwtgwxw\\logs\\debug-core.log"}
+{"time":"2024-11-29T20:02:21.1491268+05:30","level":"INFO","msg":"created new stream","id":"9cwtgwxw"}
+{"time":"2024-11-29T20:02:21.1491268+05:30","level":"INFO","msg":"stream: started","id":"9cwtgwxw"}
+{"time":"2024-11-29T20:02:21.1491268+05:30","level":"INFO","msg":"handler: started","stream_id":"9cwtgwxw"}
+{"time":"2024-11-29T20:02:21.1491268+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"9cwtgwxw"}
+{"time":"2024-11-29T20:02:21.1491268+05:30","level":"INFO","msg":"sender: started","stream_id":"9cwtgwxw"}
+{"time":"2024-11-29T20:02:21.5775017+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T20:02:21.8005153+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T20:02:21.8010194+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T20:02:22.8054044+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.3908034,"progress":"907B/907B"},{"desc":"saving job artifact","runtime_seconds":0.013613}],"total_operations":2}}
+{"time":"2024-11-29T20:02:26.1398525+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T20:02:27.5460228+05:30","level":"INFO","msg":"stream: closing","id":"9cwtgwxw"}
+{"time":"2024-11-29T20:02:27.5460228+05:30","level":"INFO","msg":"handler: closed","stream_id":"9cwtgwxw"}
+{"time":"2024-11-29T20:02:27.5460228+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"9cwtgwxw"}
+{"time":"2024-11-29T20:02:27.5465423+05:30","level":"INFO","msg":"sender: closed","stream_id":"9cwtgwxw"}
+{"time":"2024-11-29T20:02:27.5465423+05:30","level":"INFO","msg":"stream: closed","id":"9cwtgwxw"}

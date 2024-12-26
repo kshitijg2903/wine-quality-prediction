@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "c:\Users\U\Desktop\Wine Quality Prediction\src\train\train.py", line 103, in train_NN
+    for epoch in range(config.epochs):
+TypeError: 'list' object cannot be interpreted as an integer

@@ -1,0 +1,75 @@
+Epoch 1/50, Loss: 1.5640967755482114, Accuracy: 0.4201
+Epoch 2/50, Loss: 1.2381240581643993, Accuracy: 0.5098
+Epoch 3/50, Loss: 1.119614434653315, Accuracy: 0.5427
+Epoch 4/50, Loss: 1.0835552770515968, Accuracy: 0.5558
+Epoch 5/50, Loss: 1.0457060912559772, Accuracy: 0.5613
+Epoch 6/50, Loss: 1.0222891815777482, Accuracy: 0.5886
+Epoch 7/50, Loss: 1.0201664155927197, Accuracy: 0.5733
+Epoch 8/50, Loss: 1.0036164583830998, Accuracy: 0.5832
+Epoch 9/50, Loss: 1.0029163504468983, Accuracy: 0.5777
+Epoch 10/50, Loss: 0.9856463526857311, Accuracy: 0.5864
+Epoch 11/50, Loss: 0.9834635566020834, Accuracy: 0.5941
+Epoch 12/50, Loss: 0.9879664490962851, Accuracy: 0.5875
+Epoch 13/50, Loss: 0.9748122856534761, Accuracy: 0.5963
+Epoch 14/50, Loss: 0.9538328154333706, Accuracy: 0.5996
+Epoch 15/50, Loss: 0.9482642514952297, Accuracy: 0.6018
+Epoch 16/50, Loss: 0.9412058550736, Accuracy: 0.6039
+Epoch 17/50, Loss: 0.957672733685066, Accuracy: 0.6007
+Epoch 18/50, Loss: 0.9428491510193924, Accuracy: 0.6072
+Epoch 19/50, Loss: 0.9391625215267313, Accuracy: 0.6072
+Epoch 20/50, Loss: 0.9445719677826454, Accuracy: 0.6039
+Epoch 21/50, Loss: 0.9376526742145933, Accuracy: 0.6028
+Epoch 22/50, Loss: 0.9283231435150936, Accuracy: 0.6105
+Epoch 23/50, Loss: 0.9294687858943281, Accuracy: 0.6127
+Epoch 24/50, Loss: 0.9284870049049114, Accuracy: 0.6061
+Epoch 25/50, Loss: 0.9135617449365813, Accuracy: 0.6204
+Epoch 26/50, Loss: 0.9053414094037023, Accuracy: 0.6269
+Epoch 27/50, Loss: 0.9094535585107475, Accuracy: 0.6182
+Epoch 28/50, Loss: 0.9080347274911815, Accuracy: 0.6258
+Epoch 29/50, Loss: 0.9070106292593068, Accuracy: 0.6214
+Epoch 30/50, Loss: 0.8998473944335148, Accuracy: 0.6193
+Epoch 31/50, Loss: 0.9051913105208298, Accuracy: 0.6269
+Epoch 32/50, Loss: 0.9168560957086498, Accuracy: 0.6094
+Epoch 33/50, Loss: 0.8982123177627037, Accuracy: 0.6138
+Epoch 34/50, Loss: 0.8907429863666666, Accuracy: 0.6269
+Epoch 35/50, Loss: 0.8918419007597298, Accuracy: 0.6269
+Epoch 36/50, Loss: 0.8964343194303841, Accuracy: 0.6236
+Epoch 37/50, Loss: 0.905774307662043, Accuracy: 0.6236
+Epoch 38/50, Loss: 0.8817726435332462, Accuracy: 0.6225
+Epoch 39/50, Loss: 0.9032004968873386, Accuracy: 0.6236
+Epoch 40/50, Loss: 0.8907022578962918, Accuracy: 0.6324
+Epoch 41/50, Loss: 0.8656397749637735, Accuracy: 0.6521
+Epoch 42/50, Loss: 0.8922838486474136, Accuracy: 0.6280
+Epoch 43/50, Loss: 0.8746520527477922, Accuracy: 0.6269
+Epoch 44/50, Loss: 0.8726542530388668, Accuracy: 0.6346
+Epoch 45/50, Loss: 0.8682768673732363, Accuracy: 0.6302
+Epoch 46/50, Loss: 0.8633718634473866, Accuracy: 0.6225
+Epoch 47/50, Loss: 0.8633871160704514, Accuracy: 0.6455
+Epoch 48/50, Loss: 0.8618780641720213, Accuracy: 0.6280
+Epoch 49/50, Loss: 0.8525939069945236, Accuracy: 0.6225
+Epoch 50/50, Loss: 0.8541350878518204, Accuracy: 0.6324
+Classification Report:
+C:\Users\U\anaconda3\envs\MLOps_env\lib\site-packages\sklearn\metrics\_classification.py:1248: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+C:\Users\U\anaconda3\envs\MLOps_env\lib\site-packages\sklearn\metrics\_classification.py:1248: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+C:\Users\U\anaconda3\envs\MLOps_env\lib\site-packages\sklearn\metrics\_classification.py:1248: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00         6
+           1       0.00      0.00      0.00        96
+           2       0.27      0.28      0.28        99
+           3       0.14      0.54      0.22        26
+           4       0.09      1.00      0.16         2
+
+    accuracy                           0.19       229
+   macro avg       0.10      0.36      0.13       229
+weighted avg       0.13      0.19      0.15       229
+
+Confusion Matrix:
+[[ 0  0  3  3  0]
+ [ 0  0 72 23  1]
+ [ 0  0 28 62  9]
+ [ 0  0  1 14 11]
+ [ 0  0  0  0  2]]

@@ -1,0 +1,17 @@
+{"time":"2024-11-29T16:19:11.2653187+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T16:19:11.2653187+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_161911-gconmzd1\\logs\\debug-core.log"}
+{"time":"2024-11-29T16:19:11.3751987+05:30","level":"INFO","msg":"created new stream","id":"gconmzd1"}
+{"time":"2024-11-29T16:19:11.3751987+05:30","level":"INFO","msg":"stream: started","id":"gconmzd1"}
+{"time":"2024-11-29T16:19:11.3751987+05:30","level":"INFO","msg":"handler: started","stream_id":"gconmzd1"}
+{"time":"2024-11-29T16:19:11.3754165+05:30","level":"INFO","msg":"sender: started","stream_id":"gconmzd1"}
+{"time":"2024-11-29T16:19:11.3754165+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"gconmzd1"}
+{"time":"2024-11-29T16:19:11.9170165+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T16:19:18.9640452+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T16:19:18.9647185+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T16:19:19.9770984+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.647451},{"desc":"uploading config.yaml","runtime_seconds":0.2960575,"progress":"820B/820B"},{"desc":"uploading output.log","runtime_seconds":0.2960575,"progress":"7.1KB/7.1KB"}],"total_operations":3}}
+{"time":"2024-11-29T16:19:20.5057537+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T16:19:21.9536277+05:30","level":"INFO","msg":"stream: closing","id":"gconmzd1"}
+{"time":"2024-11-29T16:19:21.9536277+05:30","level":"INFO","msg":"handler: closed","stream_id":"gconmzd1"}
+{"time":"2024-11-29T16:19:21.9536277+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"gconmzd1"}
+{"time":"2024-11-29T16:19:21.9536277+05:30","level":"INFO","msg":"sender: closed","stream_id":"gconmzd1"}
+{"time":"2024-11-29T16:19:21.9536277+05:30","level":"INFO","msg":"stream: closed","id":"gconmzd1"}

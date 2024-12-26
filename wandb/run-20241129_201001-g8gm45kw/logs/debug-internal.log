@@ -1,0 +1,18 @@
+{"time":"2024-11-29T20:10:01.6670144+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T20:10:01.6670144+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_201001-g8gm45kw\\logs\\debug-core.log"}
+{"time":"2024-11-29T20:10:01.7811948+05:30","level":"INFO","msg":"created new stream","id":"g8gm45kw"}
+{"time":"2024-11-29T20:10:01.7817056+05:30","level":"INFO","msg":"stream: started","id":"g8gm45kw"}
+{"time":"2024-11-29T20:10:01.7817056+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"g8gm45kw"}
+{"time":"2024-11-29T20:10:01.7817056+05:30","level":"INFO","msg":"handler: started","stream_id":"g8gm45kw"}
+{"time":"2024-11-29T20:10:01.7817056+05:30","level":"INFO","msg":"sender: started","stream_id":"g8gm45kw"}
+{"time":"2024-11-29T20:10:02.1534105+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T20:10:12.1541732+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-11-29T20:10:17.2429845+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T20:10:17.2434877+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T20:10:18.2576671+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.66541},{"desc":"uploading wandb-summary.json","runtime_seconds":0.6503053,"progress":"13.2KB/13.2KB"},{"desc":"uploading config.yaml","runtime_seconds":0.3267852,"progress":"757B/757B"},{"desc":"uploading output.log","runtime_seconds":0.3267852,"progress":"24.5KB/24.5KB"},{"desc":"uploading history, summary, console logs","runtime_seconds":0.2921457}],"total_operations":5}}
+{"time":"2024-11-29T20:10:19.0735985+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T20:10:20.4254875+05:30","level":"INFO","msg":"stream: closing","id":"g8gm45kw"}
+{"time":"2024-11-29T20:10:20.4254875+05:30","level":"INFO","msg":"handler: closed","stream_id":"g8gm45kw"}
+{"time":"2024-11-29T20:10:20.4254875+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"g8gm45kw"}
+{"time":"2024-11-29T20:10:20.4254875+05:30","level":"INFO","msg":"sender: closed","stream_id":"g8gm45kw"}
+{"time":"2024-11-29T20:10:20.4254875+05:30","level":"INFO","msg":"stream: closed","id":"g8gm45kw"}

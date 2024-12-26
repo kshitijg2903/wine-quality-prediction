@@ -1,0 +1,17 @@
+{"time":"2024-11-29T20:07:45.4597816+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T20:07:45.4597816+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_200745-vrr94pci\\logs\\debug-core.log"}
+{"time":"2024-11-29T20:07:45.5703834+05:30","level":"INFO","msg":"created new stream","id":"vrr94pci"}
+{"time":"2024-11-29T20:07:45.5710168+05:30","level":"INFO","msg":"stream: started","id":"vrr94pci"}
+{"time":"2024-11-29T20:07:45.5710168+05:30","level":"INFO","msg":"sender: started","stream_id":"vrr94pci"}
+{"time":"2024-11-29T20:07:45.5710168+05:30","level":"INFO","msg":"handler: started","stream_id":"vrr94pci"}
+{"time":"2024-11-29T20:07:45.5710168+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"vrr94pci"}
+{"time":"2024-11-29T20:07:45.977455+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T20:07:55.7113294+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T20:07:55.7118358+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T20:07:56.7237379+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.6921214},{"desc":"uploading config.yaml","runtime_seconds":0.3509227,"progress":"756B/756B"},{"desc":"uploading output.log","runtime_seconds":0.3509227,"progress":"10.2KB/10.2KB"}],"total_operations":3}}
+{"time":"2024-11-29T20:07:57.0490699+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T20:07:58.6256573+05:30","level":"INFO","msg":"stream: closing","id":"vrr94pci"}
+{"time":"2024-11-29T20:07:58.6256573+05:30","level":"INFO","msg":"handler: closed","stream_id":"vrr94pci"}
+{"time":"2024-11-29T20:07:58.6256573+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"vrr94pci"}
+{"time":"2024-11-29T20:07:58.6256573+05:30","level":"INFO","msg":"sender: closed","stream_id":"vrr94pci"}
+{"time":"2024-11-29T20:07:58.6256573+05:30","level":"INFO","msg":"stream: closed","id":"vrr94pci"}

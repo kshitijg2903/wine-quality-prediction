@@ -1,0 +1,17 @@
+{"time":"2024-11-29T18:36:03.5690443+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T18:36:03.5690443+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_183603-g2dbqlyc\\logs\\debug-core.log"}
+{"time":"2024-11-29T18:36:03.6855249+05:30","level":"INFO","msg":"created new stream","id":"g2dbqlyc"}
+{"time":"2024-11-29T18:36:03.6855249+05:30","level":"INFO","msg":"stream: started","id":"g2dbqlyc"}
+{"time":"2024-11-29T18:36:03.6864885+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"g2dbqlyc"}
+{"time":"2024-11-29T18:36:03.6864885+05:30","level":"INFO","msg":"sender: started","stream_id":"g2dbqlyc"}
+{"time":"2024-11-29T18:36:03.6864885+05:30","level":"INFO","msg":"handler: started","stream_id":"g2dbqlyc"}
+{"time":"2024-11-29T18:36:04.0662587+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T18:36:07.9017984+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T18:36:07.9023043+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T18:36:08.9051022+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.7006704},{"desc":"uploading config.yaml","runtime_seconds":0.3445365,"progress":"757B/757B"},{"desc":"uploading output.log","runtime_seconds":0.3445365,"progress":"9.5KB/9.5KB"}],"total_operations":3}}
+{"time":"2024-11-29T18:36:11.5318663+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T18:36:13.0065705+05:30","level":"INFO","msg":"stream: closing","id":"g2dbqlyc"}
+{"time":"2024-11-29T18:36:13.0065705+05:30","level":"INFO","msg":"handler: closed","stream_id":"g2dbqlyc"}
+{"time":"2024-11-29T18:36:13.0065705+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"g2dbqlyc"}
+{"time":"2024-11-29T18:36:13.0079198+05:30","level":"INFO","msg":"sender: closed","stream_id":"g2dbqlyc"}
+{"time":"2024-11-29T18:36:13.0079198+05:30","level":"INFO","msg":"stream: closed","id":"g2dbqlyc"}

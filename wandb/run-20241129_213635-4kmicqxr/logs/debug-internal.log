@@ -1,0 +1,18 @@
+{"time":"2024-11-29T21:36:35.6490822+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T21:36:35.6490822+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_213635-4kmicqxr\\logs\\debug-core.log"}
+{"time":"2024-11-29T21:36:35.7610929+05:30","level":"INFO","msg":"created new stream","id":"4kmicqxr"}
+{"time":"2024-11-29T21:36:35.7610929+05:30","level":"INFO","msg":"stream: started","id":"4kmicqxr"}
+{"time":"2024-11-29T21:36:35.7617614+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"4kmicqxr"}
+{"time":"2024-11-29T21:36:35.7617614+05:30","level":"INFO","msg":"sender: started","stream_id":"4kmicqxr"}
+{"time":"2024-11-29T21:36:35.7617614+05:30","level":"INFO","msg":"handler: started","stream_id":"4kmicqxr"}
+{"time":"2024-11-29T21:36:36.1612354+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T21:36:46.1619597+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-11-29T21:37:55.5784524+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T21:37:55.5790064+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T21:37:56.5907109+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.4023633},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3682385,"progress":"31.4KB/31.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.0477347,"progress":"756B/756B"},{"desc":"uploading output.log","runtime_seconds":0.0477347,"progress":"24.5KB/24.5KB"}],"total_operations":4}}
+{"time":"2024-11-29T21:37:59.7541844+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T21:38:01.2254555+05:30","level":"INFO","msg":"stream: closing","id":"4kmicqxr"}
+{"time":"2024-11-29T21:38:01.2254555+05:30","level":"INFO","msg":"handler: closed","stream_id":"4kmicqxr"}
+{"time":"2024-11-29T21:38:01.2254555+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"4kmicqxr"}
+{"time":"2024-11-29T21:38:01.2254555+05:30","level":"INFO","msg":"sender: closed","stream_id":"4kmicqxr"}
+{"time":"2024-11-29T21:38:01.2254555+05:30","level":"INFO","msg":"stream: closed","id":"4kmicqxr"}

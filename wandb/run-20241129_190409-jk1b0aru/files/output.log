@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "c:\Users\U\Desktop\Wine Quality Prediction\src\train\train.py", line 55, in train_NN
+    X_scaled = data.drop(columns =['quality'])
+  File "C:\Users\U\anaconda3\envs\MLOps_env\lib\site-packages\pandas\core\frame.py", line 5258, in drop
+    return super().drop(
+  File "C:\Users\U\anaconda3\envs\MLOps_env\lib\site-packages\pandas\core\generic.py", line 4549, in drop
+    obj = obj._drop_axis(labels, axis, level=level, errors=errors)
+  File "C:\Users\U\anaconda3\envs\MLOps_env\lib\site-packages\pandas\core\generic.py", line 4591, in _drop_axis
+    new_axis = axis.drop(labels, errors=errors)
+  File "C:\Users\U\anaconda3\envs\MLOps_env\lib\site-packages\pandas\core\indexes\base.py", line 6699, in drop
+    raise KeyError(f"{list(labels[mask])} not found in axis")
+KeyError: "['quality'] not found in axis"

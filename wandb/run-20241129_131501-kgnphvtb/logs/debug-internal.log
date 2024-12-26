@@ -1,0 +1,17 @@
+{"time":"2024-11-29T13:15:01.1794148+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T13:15:01.1794148+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_131501-kgnphvtb\\logs\\debug-core.log"}
+{"time":"2024-11-29T13:15:01.292534+05:30","level":"INFO","msg":"created new stream","id":"kgnphvtb"}
+{"time":"2024-11-29T13:15:01.292534+05:30","level":"INFO","msg":"stream: started","id":"kgnphvtb"}
+{"time":"2024-11-29T13:15:01.293541+05:30","level":"INFO","msg":"handler: started","stream_id":"kgnphvtb"}
+{"time":"2024-11-29T13:15:01.2945938+05:30","level":"INFO","msg":"sender: started","stream_id":"kgnphvtb"}
+{"time":"2024-11-29T13:15:01.2945938+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"kgnphvtb"}
+{"time":"2024-11-29T13:15:01.7039171+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T13:15:05.1195366+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T13:15:05.1200457+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T13:15:06.13407+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.6891724},{"desc":"uploading output.log","runtime_seconds":0.3460691,"progress":"4.3KB/4.3KB"},{"desc":"uploading config.yaml","runtime_seconds":0.3460691,"progress":"819B/819B"}],"total_operations":3}}
+{"time":"2024-11-29T13:15:08.8070468+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T13:15:10.2217176+05:30","level":"INFO","msg":"stream: closing","id":"kgnphvtb"}
+{"time":"2024-11-29T13:15:10.2217176+05:30","level":"INFO","msg":"handler: closed","stream_id":"kgnphvtb"}
+{"time":"2024-11-29T13:15:10.2217176+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"kgnphvtb"}
+{"time":"2024-11-29T13:15:10.2217176+05:30","level":"INFO","msg":"sender: closed","stream_id":"kgnphvtb"}
+{"time":"2024-11-29T13:15:10.2217176+05:30","level":"INFO","msg":"stream: closed","id":"kgnphvtb"}

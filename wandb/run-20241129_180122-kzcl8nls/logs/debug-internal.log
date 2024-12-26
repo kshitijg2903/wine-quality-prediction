@@ -1,0 +1,17 @@
+{"time":"2024-11-29T18:01:22.2987129+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T18:01:22.2987129+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_180122-kzcl8nls\\logs\\debug-core.log"}
+{"time":"2024-11-29T18:01:22.4106966+05:30","level":"INFO","msg":"created new stream","id":"kzcl8nls"}
+{"time":"2024-11-29T18:01:22.4106966+05:30","level":"INFO","msg":"stream: started","id":"kzcl8nls"}
+{"time":"2024-11-29T18:01:22.4106966+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"kzcl8nls"}
+{"time":"2024-11-29T18:01:22.4106966+05:30","level":"INFO","msg":"sender: started","stream_id":"kzcl8nls"}
+{"time":"2024-11-29T18:01:22.4106966+05:30","level":"INFO","msg":"handler: started","stream_id":"kzcl8nls"}
+{"time":"2024-11-29T18:01:22.8245495+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T18:01:32.8250506+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-11-29T18:01:46.5271242+05:30","level":"INFO","msg":"stream: closing","id":"kzcl8nls"}
+{"time":"2024-11-29T18:01:46.5271242+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T18:01:46.5287045+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T18:01:51.5853205+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T18:01:52.0922918+05:30","level":"INFO","msg":"handler: closed","stream_id":"kzcl8nls"}
+{"time":"2024-11-29T18:01:52.0923632+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"kzcl8nls"}
+{"time":"2024-11-29T18:01:52.0923632+05:30","level":"INFO","msg":"sender: closed","stream_id":"kzcl8nls"}
+{"time":"2024-11-29T18:01:52.0928822+05:30","level":"INFO","msg":"stream: closed","id":"kzcl8nls"}

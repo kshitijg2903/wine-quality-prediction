@@ -1,0 +1,30 @@
+Epoch 1/10, Train Loss: 1.8032, Train Accuracy: 0.1382, Val Loss: 1.7347, Val Accuracy: 0.4153
+Epoch 2/10, Train Loss: 1.6808, Train Accuracy: 0.4610, Val Loss: 1.6350, Val Accuracy: 0.4863
+Epoch 3/10, Train Loss: 1.5734, Train Accuracy: 0.5280, Val Loss: 1.5383, Val Accuracy: 0.4918
+Epoch 4/10, Train Loss: 1.4494, Train Accuracy: 0.5650, Val Loss: 1.4516, Val Accuracy: 0.4918
+Epoch 5/10, Train Loss: 1.3514, Train Accuracy: 0.5773, Val Loss: 1.3805, Val Accuracy: 0.4973
+Epoch 6/10, Train Loss: 1.2556, Train Accuracy: 0.5800, Val Loss: 1.3286, Val Accuracy: 0.4699
+Epoch 7/10, Train Loss: 1.1766, Train Accuracy: 0.5828, Val Loss: 1.2895, Val Accuracy: 0.4754
+Epoch 8/10, Train Loss: 1.1304, Train Accuracy: 0.5746, Val Loss: 1.2610, Val Accuracy: 0.4809
+Epoch 9/10, Train Loss: 1.0865, Train Accuracy: 0.5828, Val Loss: 1.2287, Val Accuracy: 0.5137
+Epoch 10/10, Train Loss: 1.0609, Train Accuracy: 0.5828, Val Loss: 1.2087, Val Accuracy: 0.5137
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      0.00      0.00         6
+           1       1.00      0.00      0.00        96
+           2       0.35      0.43      0.39        99
+           3       0.24      0.96      0.38        26
+           4       1.00      0.00      0.00         2
+
+    accuracy                           0.30       229
+   macro avg       0.72      0.28      0.15       229
+weighted avg       0.63      0.30      0.21       229
+
+Test Confusion Matrix:
+[[ 0  0  3  3  0]
+ [ 0  0 77 19  0]
+ [ 0  0 43 56  0]
+ [ 0  0  1 25  0]
+ [ 0  0  0  2  0]]
+Test Accuracy: 0.2969

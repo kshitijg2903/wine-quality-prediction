@@ -1,0 +1,18 @@
+{"time":"2024-11-29T20:11:17.5697718+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T20:11:17.5697718+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_201117-1y5mjs7l\\logs\\debug-core.log"}
+{"time":"2024-11-29T20:11:17.6832247+05:30","level":"INFO","msg":"created new stream","id":"1y5mjs7l"}
+{"time":"2024-11-29T20:11:17.6832247+05:30","level":"INFO","msg":"stream: started","id":"1y5mjs7l"}
+{"time":"2024-11-29T20:11:17.683737+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"1y5mjs7l"}
+{"time":"2024-11-29T20:11:17.683737+05:30","level":"INFO","msg":"handler: started","stream_id":"1y5mjs7l"}
+{"time":"2024-11-29T20:11:17.683737+05:30","level":"INFO","msg":"sender: started","stream_id":"1y5mjs7l"}
+{"time":"2024-11-29T20:11:18.6239517+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T20:11:28.6242797+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-11-29T20:11:37.8921305+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T20:11:37.8926605+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T20:11:38.8961183+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.622522},{"desc":"uploading config.yaml","runtime_seconds":0.2703536,"progress":"758B/758B"},{"desc":"uploading output.log","runtime_seconds":0.2703536,"progress":"24.5KB/24.5KB"}],"total_operations":3}}
+{"time":"2024-11-29T20:11:41.7456173+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T20:11:43.2533449+05:30","level":"INFO","msg":"stream: closing","id":"1y5mjs7l"}
+{"time":"2024-11-29T20:11:43.2533449+05:30","level":"INFO","msg":"handler: closed","stream_id":"1y5mjs7l"}
+{"time":"2024-11-29T20:11:43.2533449+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"1y5mjs7l"}
+{"time":"2024-11-29T20:11:43.2533449+05:30","level":"INFO","msg":"sender: closed","stream_id":"1y5mjs7l"}
+{"time":"2024-11-29T20:11:43.2533449+05:30","level":"INFO","msg":"stream: closed","id":"1y5mjs7l"}

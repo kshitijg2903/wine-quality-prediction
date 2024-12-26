@@ -1,0 +1,18 @@
+{"time":"2024-11-29T20:03:22.0861371+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T20:03:22.0861371+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_200322-ujaykuub\\logs\\debug-core.log"}
+{"time":"2024-11-29T20:03:22.1983318+05:30","level":"INFO","msg":"created new stream","id":"ujaykuub"}
+{"time":"2024-11-29T20:03:22.1983318+05:30","level":"INFO","msg":"stream: started","id":"ujaykuub"}
+{"time":"2024-11-29T20:03:22.1988421+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ujaykuub"}
+{"time":"2024-11-29T20:03:22.1989438+05:30","level":"INFO","msg":"handler: started","stream_id":"ujaykuub"}
+{"time":"2024-11-29T20:03:22.1989438+05:30","level":"INFO","msg":"sender: started","stream_id":"ujaykuub"}
+{"time":"2024-11-29T20:03:22.5849661+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T20:03:32.5858716+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-11-29T20:03:36.2276377+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T20:03:36.2287268+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T20:03:37.2419981+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.6064883},{"desc":"uploading config.yaml","runtime_seconds":0.2627077,"progress":"757B/757B"},{"desc":"uploading output.log","runtime_seconds":0.2627077,"progress":"10.2KB/10.2KB"}],"total_operations":3}}
+{"time":"2024-11-29T20:03:40.1151804+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T20:03:41.6118394+05:30","level":"INFO","msg":"stream: closing","id":"ujaykuub"}
+{"time":"2024-11-29T20:03:41.6118394+05:30","level":"INFO","msg":"handler: closed","stream_id":"ujaykuub"}
+{"time":"2024-11-29T20:03:41.6118394+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ujaykuub"}
+{"time":"2024-11-29T20:03:41.6118394+05:30","level":"INFO","msg":"sender: closed","stream_id":"ujaykuub"}
+{"time":"2024-11-29T20:03:41.61248+05:30","level":"INFO","msg":"stream: closed","id":"ujaykuub"}

@@ -1,0 +1,17 @@
+{"time":"2024-11-29T18:44:19.4050996+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T18:44:19.4050996+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_184419-2lkrlinn\\logs\\debug-core.log"}
+{"time":"2024-11-29T18:44:19.519667+05:30","level":"INFO","msg":"created new stream","id":"2lkrlinn"}
+{"time":"2024-11-29T18:44:19.519667+05:30","level":"INFO","msg":"stream: started","id":"2lkrlinn"}
+{"time":"2024-11-29T18:44:19.519667+05:30","level":"INFO","msg":"handler: started","stream_id":"2lkrlinn"}
+{"time":"2024-11-29T18:44:19.519667+05:30","level":"INFO","msg":"sender: started","stream_id":"2lkrlinn"}
+{"time":"2024-11-29T18:44:19.519667+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"2lkrlinn"}
+{"time":"2024-11-29T18:44:19.918265+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T18:44:20.7530052+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T18:44:20.7535277+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T18:44:21.7097541+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.5482866},{"desc":"uploading config.yaml","runtime_seconds":0.1997494,"progress":"756B/756B"},{"desc":"uploading output.log","runtime_seconds":0.1997494,"progress":"1.6KB/1.6KB"}],"total_operations":3}}
+{"time":"2024-11-29T18:44:22.1520216+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T18:44:23.5699564+05:30","level":"INFO","msg":"stream: closing","id":"2lkrlinn"}
+{"time":"2024-11-29T18:44:23.5699564+05:30","level":"INFO","msg":"handler: closed","stream_id":"2lkrlinn"}
+{"time":"2024-11-29T18:44:23.5699564+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"2lkrlinn"}
+{"time":"2024-11-29T18:44:23.5699564+05:30","level":"INFO","msg":"sender: closed","stream_id":"2lkrlinn"}
+{"time":"2024-11-29T18:44:23.5704715+05:30","level":"INFO","msg":"stream: closed","id":"2lkrlinn"}

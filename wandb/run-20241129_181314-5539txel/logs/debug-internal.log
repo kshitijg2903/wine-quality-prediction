@@ -1,0 +1,17 @@
+{"time":"2024-11-29T18:13:14.6732658+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T18:13:14.6738583+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_181314-5539txel\\logs\\debug-core.log"}
+{"time":"2024-11-29T18:13:14.801425+05:30","level":"INFO","msg":"created new stream","id":"5539txel"}
+{"time":"2024-11-29T18:13:14.8020274+05:30","level":"INFO","msg":"stream: started","id":"5539txel"}
+{"time":"2024-11-29T18:13:14.8020274+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"5539txel"}
+{"time":"2024-11-29T18:13:14.8020274+05:30","level":"INFO","msg":"sender: started","stream_id":"5539txel"}
+{"time":"2024-11-29T18:13:14.8020274+05:30","level":"INFO","msg":"handler: started","stream_id":"5539txel"}
+{"time":"2024-11-29T18:13:15.2522186+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T18:13:15.4110804+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T18:13:15.4117292+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T18:13:16.4229762+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.2816502}],"total_operations":1}}
+{"time":"2024-11-29T18:13:19.7830257+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T18:13:21.1759437+05:30","level":"INFO","msg":"stream: closing","id":"5539txel"}
+{"time":"2024-11-29T18:13:21.1759437+05:30","level":"INFO","msg":"handler: closed","stream_id":"5539txel"}
+{"time":"2024-11-29T18:13:21.1759437+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"5539txel"}
+{"time":"2024-11-29T18:13:21.1759437+05:30","level":"INFO","msg":"sender: closed","stream_id":"5539txel"}
+{"time":"2024-11-29T18:13:21.1759437+05:30","level":"INFO","msg":"stream: closed","id":"5539txel"}

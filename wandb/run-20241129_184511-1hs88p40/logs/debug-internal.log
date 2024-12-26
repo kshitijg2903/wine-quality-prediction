@@ -1,0 +1,17 @@
+{"time":"2024-11-29T18:45:11.5251119+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T18:45:11.5251119+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_184511-1hs88p40\\logs\\debug-core.log"}
+{"time":"2024-11-29T18:45:11.639371+05:30","level":"INFO","msg":"created new stream","id":"1hs88p40"}
+{"time":"2024-11-29T18:45:11.639371+05:30","level":"INFO","msg":"stream: started","id":"1hs88p40"}
+{"time":"2024-11-29T18:45:11.639371+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"1hs88p40"}
+{"time":"2024-11-29T18:45:11.639371+05:30","level":"INFO","msg":"handler: started","stream_id":"1hs88p40"}
+{"time":"2024-11-29T18:45:11.639371+05:30","level":"INFO","msg":"sender: started","stream_id":"1hs88p40"}
+{"time":"2024-11-29T18:45:12.0647803+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T18:45:16.4861365+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T18:45:16.4866505+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T18:45:17.4935974+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.6679023},{"desc":"uploading config.yaml","runtime_seconds":0.3106707,"progress":"755B/755B"},{"desc":"uploading output.log","runtime_seconds":0.3106707,"progress":"1.6KB/1.6KB"}],"total_operations":3}}
+{"time":"2024-11-29T18:45:17.8393752+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T18:45:19.3193055+05:30","level":"INFO","msg":"stream: closing","id":"1hs88p40"}
+{"time":"2024-11-29T18:45:19.3193055+05:30","level":"INFO","msg":"handler: closed","stream_id":"1hs88p40"}
+{"time":"2024-11-29T18:45:19.3193055+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"1hs88p40"}
+{"time":"2024-11-29T18:45:19.3193055+05:30","level":"INFO","msg":"sender: closed","stream_id":"1hs88p40"}
+{"time":"2024-11-29T18:45:19.3193055+05:30","level":"INFO","msg":"stream: closed","id":"1hs88p40"}

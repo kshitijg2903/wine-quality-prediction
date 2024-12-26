@@ -1,0 +1,17 @@
+{"time":"2024-11-29T20:09:11.8909769+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T20:09:11.8909769+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_200911-wyhj1w32\\logs\\debug-core.log"}
+{"time":"2024-11-29T20:09:12.0060671+05:30","level":"INFO","msg":"created new stream","id":"wyhj1w32"}
+{"time":"2024-11-29T20:09:12.0060671+05:30","level":"INFO","msg":"stream: started","id":"wyhj1w32"}
+{"time":"2024-11-29T20:09:12.0060671+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"wyhj1w32"}
+{"time":"2024-11-29T20:09:12.0060671+05:30","level":"INFO","msg":"sender: started","stream_id":"wyhj1w32"}
+{"time":"2024-11-29T20:09:12.0060671+05:30","level":"INFO","msg":"handler: started","stream_id":"wyhj1w32"}
+{"time":"2024-11-29T20:09:12.3788677+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T20:09:17.4500473+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T20:09:17.4505587+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T20:09:18.456763+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.6808748},{"desc":"uploading wandb-summary.json","runtime_seconds":0.6553419,"progress":"13.2KB/13.2KB"},{"desc":"uploading config.yaml","runtime_seconds":0.3235369,"progress":"758B/758B"},{"desc":"uploading output.log","runtime_seconds":0.3235369,"progress":"10.2KB/10.2KB"}],"total_operations":4}}
+{"time":"2024-11-29T20:09:19.6077151+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T20:09:21.0763834+05:30","level":"INFO","msg":"stream: closing","id":"wyhj1w32"}
+{"time":"2024-11-29T20:09:21.0763834+05:30","level":"INFO","msg":"handler: closed","stream_id":"wyhj1w32"}
+{"time":"2024-11-29T20:09:21.0763834+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"wyhj1w32"}
+{"time":"2024-11-29T20:09:21.0763834+05:30","level":"INFO","msg":"sender: closed","stream_id":"wyhj1w32"}
+{"time":"2024-11-29T20:09:21.0763834+05:30","level":"INFO","msg":"stream: closed","id":"wyhj1w32"}

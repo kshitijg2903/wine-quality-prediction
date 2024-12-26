@@ -1,0 +1,18 @@
+{"time":"2024-11-29T20:50:07.8611791+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T20:50:07.8611791+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_205007-2yfxrbcz\\logs\\debug-core.log"}
+{"time":"2024-11-29T20:50:07.9753295+05:30","level":"INFO","msg":"created new stream","id":"2yfxrbcz"}
+{"time":"2024-11-29T20:50:07.9753295+05:30","level":"INFO","msg":"stream: started","id":"2yfxrbcz"}
+{"time":"2024-11-29T20:50:07.9753295+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"2yfxrbcz"}
+{"time":"2024-11-29T20:50:07.9753295+05:30","level":"INFO","msg":"handler: started","stream_id":"2yfxrbcz"}
+{"time":"2024-11-29T20:50:07.9753295+05:30","level":"INFO","msg":"sender: started","stream_id":"2yfxrbcz"}
+{"time":"2024-11-29T20:50:08.3853192+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T20:50:18.3857491+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-11-29T20:50:49.3023097+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T20:50:49.3028476+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T20:50:50.3102671+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.7074441},{"desc":"uploading config.yaml","runtime_seconds":0.3519395,"progress":"758B/758B"},{"desc":"uploading output.log","runtime_seconds":0.3519395,"progress":"24.6KB/24.6KB"}],"total_operations":3}}
+{"time":"2024-11-29T20:50:52.9437008+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T20:50:54.5195136+05:30","level":"INFO","msg":"stream: closing","id":"2yfxrbcz"}
+{"time":"2024-11-29T20:50:54.5195136+05:30","level":"INFO","msg":"handler: closed","stream_id":"2yfxrbcz"}
+{"time":"2024-11-29T20:50:54.5195136+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"2yfxrbcz"}
+{"time":"2024-11-29T20:50:54.5195136+05:30","level":"INFO","msg":"sender: closed","stream_id":"2yfxrbcz"}
+{"time":"2024-11-29T20:50:54.5195136+05:30","level":"INFO","msg":"stream: closed","id":"2yfxrbcz"}

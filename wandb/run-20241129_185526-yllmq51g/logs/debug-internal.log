@@ -1,0 +1,17 @@
+{"time":"2024-11-29T18:55:26.4226046+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T18:55:26.422659+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_185526-yllmq51g\\logs\\debug-core.log"}
+{"time":"2024-11-29T18:55:26.5328954+05:30","level":"INFO","msg":"created new stream","id":"yllmq51g"}
+{"time":"2024-11-29T18:55:26.5328954+05:30","level":"INFO","msg":"stream: started","id":"yllmq51g"}
+{"time":"2024-11-29T18:55:26.5328954+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"yllmq51g"}
+{"time":"2024-11-29T18:55:26.5328954+05:30","level":"INFO","msg":"handler: started","stream_id":"yllmq51g"}
+{"time":"2024-11-29T18:55:26.5328954+05:30","level":"INFO","msg":"sender: started","stream_id":"yllmq51g"}
+{"time":"2024-11-29T18:55:26.9522231+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T18:55:27.1997034+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T18:55:27.1997034+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T18:55:28.2111572+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.2830931}],"total_operations":1}}
+{"time":"2024-11-29T18:55:31.5750617+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T18:55:32.9811845+05:30","level":"INFO","msg":"stream: closing","id":"yllmq51g"}
+{"time":"2024-11-29T18:55:32.9811845+05:30","level":"INFO","msg":"handler: closed","stream_id":"yllmq51g"}
+{"time":"2024-11-29T18:55:32.9811845+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"yllmq51g"}
+{"time":"2024-11-29T18:55:32.9811845+05:30","level":"INFO","msg":"sender: closed","stream_id":"yllmq51g"}
+{"time":"2024-11-29T18:55:32.9811845+05:30","level":"INFO","msg":"stream: closed","id":"yllmq51g"}

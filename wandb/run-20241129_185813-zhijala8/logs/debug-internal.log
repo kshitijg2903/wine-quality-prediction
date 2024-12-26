@@ -1,0 +1,17 @@
+{"time":"2024-11-29T18:58:13.5356859+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T18:58:13.5357578+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_185813-zhijala8\\logs\\debug-core.log"}
+{"time":"2024-11-29T18:58:13.651735+05:30","level":"INFO","msg":"created new stream","id":"zhijala8"}
+{"time":"2024-11-29T18:58:13.651735+05:30","level":"INFO","msg":"stream: started","id":"zhijala8"}
+{"time":"2024-11-29T18:58:13.651904+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"zhijala8"}
+{"time":"2024-11-29T18:58:13.651904+05:30","level":"INFO","msg":"handler: started","stream_id":"zhijala8"}
+{"time":"2024-11-29T18:58:13.651904+05:30","level":"INFO","msg":"sender: started","stream_id":"zhijala8"}
+{"time":"2024-11-29T18:58:14.0282875+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T18:58:20.7031348+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T18:58:20.7043265+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T18:58:21.7053965+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.6803283},{"desc":"uploading config.yaml","runtime_seconds":0.3269482,"progress":"755B/755B"},{"desc":"uploading output.log","runtime_seconds":0.3269482,"progress":"10.2KB/10.2KB"}],"total_operations":3}}
+{"time":"2024-11-29T18:58:24.3729753+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T18:58:25.8897451+05:30","level":"INFO","msg":"stream: closing","id":"zhijala8"}
+{"time":"2024-11-29T18:58:25.8897451+05:30","level":"INFO","msg":"handler: closed","stream_id":"zhijala8"}
+{"time":"2024-11-29T18:58:25.8897451+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"zhijala8"}
+{"time":"2024-11-29T18:58:25.8897451+05:30","level":"INFO","msg":"sender: closed","stream_id":"zhijala8"}
+{"time":"2024-11-29T18:58:25.8897451+05:30","level":"INFO","msg":"stream: closed","id":"zhijala8"}

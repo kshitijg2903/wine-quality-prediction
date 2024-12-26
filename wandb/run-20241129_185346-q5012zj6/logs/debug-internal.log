@@ -1,0 +1,17 @@
+{"time":"2024-11-29T18:53:46.8820103+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T18:53:46.8820103+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_185346-q5012zj6\\logs\\debug-core.log"}
+{"time":"2024-11-29T18:53:47.0020566+05:30","level":"INFO","msg":"created new stream","id":"q5012zj6"}
+{"time":"2024-11-29T18:53:47.0020566+05:30","level":"INFO","msg":"stream: started","id":"q5012zj6"}
+{"time":"2024-11-29T18:53:47.0020566+05:30","level":"INFO","msg":"handler: started","stream_id":"q5012zj6"}
+{"time":"2024-11-29T18:53:47.0020566+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"q5012zj6"}
+{"time":"2024-11-29T18:53:47.0020566+05:30","level":"INFO","msg":"sender: started","stream_id":"q5012zj6"}
+{"time":"2024-11-29T18:53:47.3987585+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T18:53:56.9280568+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T18:53:56.9293846+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T18:53:57.9429132+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.6646098},{"desc":"uploading config.yaml","runtime_seconds":0.2934303,"progress":"756B/756B"},{"desc":"uploading output.log","runtime_seconds":0.2934303,"progress":"10.1KB/10.1KB"}],"total_operations":3}}
+{"time":"2024-11-29T18:54:00.6784067+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T18:54:02.2554739+05:30","level":"INFO","msg":"stream: closing","id":"q5012zj6"}
+{"time":"2024-11-29T18:54:02.2554739+05:30","level":"INFO","msg":"handler: closed","stream_id":"q5012zj6"}
+{"time":"2024-11-29T18:54:02.2554739+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"q5012zj6"}
+{"time":"2024-11-29T18:54:02.2554739+05:30","level":"INFO","msg":"sender: closed","stream_id":"q5012zj6"}
+{"time":"2024-11-29T18:54:02.2554739+05:30","level":"INFO","msg":"stream: closed","id":"q5012zj6"}

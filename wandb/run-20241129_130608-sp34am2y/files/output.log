@@ -1,0 +1,81 @@
+Epoch 1/50, Loss: 1.680732278988279
+Epoch 2/50, Loss: 1.2996234606052268
+Epoch 3/50, Loss: 1.1239711416178737
+Epoch 4/50, Loss: 1.0652927016389782
+Epoch 5/50, Loss: 1.0384641289710999
+Epoch 6/50, Loss: 1.010890561958839
+Epoch 7/50, Loss: 1.0029504401930447
+Epoch 8/50, Loss: 1.0093504087678318
+Epoch 9/50, Loss: 0.9824749971258229
+Epoch 10/50, Loss: 0.969160390311274
+Epoch 11/50, Loss: 0.9587351165968796
+Epoch 12/50, Loss: 0.9558644109758837
+Epoch 13/50, Loss: 0.9550231304661981
+Epoch 14/50, Loss: 0.9624993903883572
+Epoch 15/50, Loss: 0.9468279686467401
+Epoch 16/50, Loss: 0.9508688100453081
+Epoch 17/50, Loss: 0.9300021262004458
+Epoch 18/50, Loss: 0.9426195004890705
+Epoch 19/50, Loss: 0.9359880377506388
+Epoch 20/50, Loss: 0.9288951816229984
+Epoch 21/50, Loss: 0.9095607297173862
+Epoch 22/50, Loss: 0.9259745067563551
+Epoch 23/50, Loss: 0.9002732470117766
+Epoch 24/50, Loss: 0.9170613227219417
+Epoch 25/50, Loss: 0.9006158339566198
+Epoch 26/50, Loss: 0.905431262378035
+Epoch 27/50, Loss: 0.9010779241035725
+Epoch 28/50, Loss: 0.9040211254152758
+Epoch 29/50, Loss: 0.8972526089898472
+Epoch 30/50, Loss: 0.89493629644657
+Epoch 31/50, Loss: 0.8804741686788099
+Epoch 32/50, Loss: 0.8891394898809236
+Epoch 33/50, Loss: 0.8852445257121119
+Epoch 34/50, Loss: 0.8777389279727278
+Epoch 35/50, Loss: 0.8799274481576065
+Epoch 36/50, Loss: 0.8921890464322321
+Epoch 37/50, Loss: 0.8955626405518631
+Epoch 38/50, Loss: 0.870507669859919
+Epoch 39/50, Loss: 0.8588560901839157
+Epoch 40/50, Loss: 0.8898674229095722
+Epoch 41/50, Loss: 0.8675018692838734
+Epoch 42/50, Loss: 0.8691916732952513
+Epoch 43/50, Loss: 0.8810993885171825
+Epoch 44/50, Loss: 0.8641767954004222
+Epoch 45/50, Loss: 0.8591343924917024
+Epoch 46/50, Loss: 0.878216120703467
+Epoch 47/50, Loss: 0.8533039483530768
+Epoch 48/50, Loss: 0.8765874690022962
+Epoch 49/50, Loss: 0.8532608028115898
+Epoch 50/50, Loss: 0.8563013015122249
+Classification Report:
+C:\Users\U\anaconda3\envs\MLOps_env\lib\site-packages\sklearn\metrics\_classification.py:1248: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+C:\Users\U\anaconda3\envs\MLOps_env\lib\site-packages\sklearn\metrics\_classification.py:1248: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+C:\Users\U\anaconda3\envs\MLOps_env\lib\site-packages\sklearn\metrics\_classification.py:1248: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+C:\Users\U\anaconda3\envs\MLOps_env\lib\site-packages\sklearn\metrics\_classification.py:1248: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+C:\Users\U\anaconda3\envs\MLOps_env\lib\site-packages\sklearn\metrics\_classification.py:1248: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+C:\Users\U\anaconda3\envs\MLOps_env\lib\site-packages\sklearn\metrics\_classification.py:1248: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00         6
+           1       0.00      0.00      0.00        96
+           2       0.28      0.29      0.29        99
+           3       0.12      0.46      0.19        26
+           4       0.07      1.00      0.14         2
+
+    accuracy                           0.19       229
+   macro avg       0.10      0.35      0.12       229
+weighted avg       0.14      0.19      0.15       229
+
+Confusion Matrix:
+[[ 0  0  3  3  0]
+ [ 0  0 69 26  1]
+ [ 0  0 29 59 11]
+ [ 0  0  1 12 13]
+ [ 0  0  0  0  2]]

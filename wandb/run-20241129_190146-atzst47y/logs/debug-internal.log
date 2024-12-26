@@ -1,0 +1,17 @@
+{"time":"2024-11-29T19:01:46.9963203+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T19:01:46.9968244+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_190146-atzst47y\\logs\\debug-core.log"}
+{"time":"2024-11-29T19:01:47.1150541+05:30","level":"INFO","msg":"created new stream","id":"atzst47y"}
+{"time":"2024-11-29T19:01:47.1156294+05:30","level":"INFO","msg":"stream: started","id":"atzst47y"}
+{"time":"2024-11-29T19:01:47.1156294+05:30","level":"INFO","msg":"sender: started","stream_id":"atzst47y"}
+{"time":"2024-11-29T19:01:47.1156294+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"atzst47y"}
+{"time":"2024-11-29T19:01:47.1156294+05:30","level":"INFO","msg":"handler: started","stream_id":"atzst47y"}
+{"time":"2024-11-29T19:01:47.5169248+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T19:01:47.7344315+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T19:01:47.7352884+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T19:01:48.7414413+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.0116755}],"total_operations":1}}
+{"time":"2024-11-29T19:01:49.7855536+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T19:01:51.1525514+05:30","level":"INFO","msg":"stream: closing","id":"atzst47y"}
+{"time":"2024-11-29T19:01:51.1525514+05:30","level":"INFO","msg":"handler: closed","stream_id":"atzst47y"}
+{"time":"2024-11-29T19:01:51.1525514+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"atzst47y"}
+{"time":"2024-11-29T19:01:51.1525514+05:30","level":"INFO","msg":"sender: closed","stream_id":"atzst47y"}
+{"time":"2024-11-29T19:01:51.1525514+05:30","level":"INFO","msg":"stream: closed","id":"atzst47y"}

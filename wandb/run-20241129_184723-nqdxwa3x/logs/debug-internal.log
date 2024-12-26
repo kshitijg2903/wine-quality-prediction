@@ -1,0 +1,18 @@
+{"time":"2024-11-29T18:47:23.8419615+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T18:47:23.8419615+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_184723-nqdxwa3x\\logs\\debug-core.log"}
+{"time":"2024-11-29T18:47:23.9520412+05:30","level":"INFO","msg":"created new stream","id":"nqdxwa3x"}
+{"time":"2024-11-29T18:47:23.9520412+05:30","level":"INFO","msg":"stream: started","id":"nqdxwa3x"}
+{"time":"2024-11-29T18:47:23.9520412+05:30","level":"INFO","msg":"handler: started","stream_id":"nqdxwa3x"}
+{"time":"2024-11-29T18:47:23.9520412+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"nqdxwa3x"}
+{"time":"2024-11-29T18:47:23.9520412+05:30","level":"INFO","msg":"sender: started","stream_id":"nqdxwa3x"}
+{"time":"2024-11-29T18:47:24.3332666+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T18:47:34.3336749+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-11-29T18:48:07.9893092+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T18:48:07.9901433+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T18:48:09.0029824+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.6893593},{"desc":"uploading config.yaml","runtime_seconds":0.3399223,"progress":"756B/756B"},{"desc":"uploading output.log","runtime_seconds":0.3399223,"progress":"10.1KB/10.1KB"}],"total_operations":3}}
+{"time":"2024-11-29T18:48:11.6735484+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T18:48:13.0663096+05:30","level":"INFO","msg":"stream: closing","id":"nqdxwa3x"}
+{"time":"2024-11-29T18:48:13.0669056+05:30","level":"INFO","msg":"handler: closed","stream_id":"nqdxwa3x"}
+{"time":"2024-11-29T18:48:13.0669056+05:30","level":"INFO","msg":"sender: closed","stream_id":"nqdxwa3x"}
+{"time":"2024-11-29T18:48:13.0669056+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"nqdxwa3x"}
+{"time":"2024-11-29T18:48:13.0675385+05:30","level":"INFO","msg":"stream: closed","id":"nqdxwa3x"}

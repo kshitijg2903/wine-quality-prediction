@@ -1,0 +1,17 @@
+{"time":"2024-11-29T18:43:28.023113+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T18:43:28.023113+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_184328-owwafbm3\\logs\\debug-core.log"}
+{"time":"2024-11-29T18:43:28.1362393+05:30","level":"INFO","msg":"created new stream","id":"owwafbm3"}
+{"time":"2024-11-29T18:43:28.1362393+05:30","level":"INFO","msg":"stream: started","id":"owwafbm3"}
+{"time":"2024-11-29T18:43:28.1362393+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"owwafbm3"}
+{"time":"2024-11-29T18:43:28.1362393+05:30","level":"INFO","msg":"sender: started","stream_id":"owwafbm3"}
+{"time":"2024-11-29T18:43:28.1367461+05:30","level":"INFO","msg":"handler: started","stream_id":"owwafbm3"}
+{"time":"2024-11-29T18:43:28.5253794+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T18:43:29.3440094+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T18:43:29.3452798+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T18:43:30.0130662+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.3407191},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3154518,"progress":"890B/890B"}],"total_operations":2}}
+{"time":"2024-11-29T18:43:30.7480856+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T18:43:32.1348742+05:30","level":"INFO","msg":"stream: closing","id":"owwafbm3"}
+{"time":"2024-11-29T18:43:32.1348742+05:30","level":"INFO","msg":"handler: closed","stream_id":"owwafbm3"}
+{"time":"2024-11-29T18:43:32.1363898+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"owwafbm3"}
+{"time":"2024-11-29T18:43:32.1364874+05:30","level":"INFO","msg":"sender: closed","stream_id":"owwafbm3"}
+{"time":"2024-11-29T18:43:32.1364874+05:30","level":"INFO","msg":"stream: closed","id":"owwafbm3"}

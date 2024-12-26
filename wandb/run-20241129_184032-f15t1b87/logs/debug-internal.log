@@ -1,0 +1,17 @@
+{"time":"2024-11-29T18:40:32.5006527+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T18:40:32.5011969+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_184032-f15t1b87\\logs\\debug-core.log"}
+{"time":"2024-11-29T18:40:32.6170548+05:30","level":"INFO","msg":"created new stream","id":"f15t1b87"}
+{"time":"2024-11-29T18:40:32.6170548+05:30","level":"INFO","msg":"stream: started","id":"f15t1b87"}
+{"time":"2024-11-29T18:40:32.6176067+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"f15t1b87"}
+{"time":"2024-11-29T18:40:32.6176067+05:30","level":"INFO","msg":"handler: started","stream_id":"f15t1b87"}
+{"time":"2024-11-29T18:40:32.6176067+05:30","level":"INFO","msg":"sender: started","stream_id":"f15t1b87"}
+{"time":"2024-11-29T18:40:33.02447+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T18:40:37.8088766+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T18:40:37.8092263+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T18:40:38.8181719+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.7019214},{"desc":"uploading config.yaml","runtime_seconds":0.3438771,"progress":"757B/757B"},{"desc":"uploading output.log","runtime_seconds":0.3438771,"progress":"10.1KB/10.1KB"}],"total_operations":3}}
+{"time":"2024-11-29T18:40:42.7963211+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T18:40:44.2580615+05:30","level":"INFO","msg":"stream: closing","id":"f15t1b87"}
+{"time":"2024-11-29T18:40:44.2580615+05:30","level":"INFO","msg":"handler: closed","stream_id":"f15t1b87"}
+{"time":"2024-11-29T18:40:44.2580615+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"f15t1b87"}
+{"time":"2024-11-29T18:40:44.2580615+05:30","level":"INFO","msg":"sender: closed","stream_id":"f15t1b87"}
+{"time":"2024-11-29T18:40:44.2580615+05:30","level":"INFO","msg":"stream: closed","id":"f15t1b87"}

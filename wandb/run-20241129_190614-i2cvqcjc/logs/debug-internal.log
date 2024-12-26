@@ -1,0 +1,17 @@
+{"time":"2024-11-29T19:06:14.9729804+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T19:06:14.9729804+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_190614-i2cvqcjc\\logs\\debug-core.log"}
+{"time":"2024-11-29T19:06:15.0910034+05:30","level":"INFO","msg":"created new stream","id":"i2cvqcjc"}
+{"time":"2024-11-29T19:06:15.0910034+05:30","level":"INFO","msg":"stream: started","id":"i2cvqcjc"}
+{"time":"2024-11-29T19:06:15.0910034+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"i2cvqcjc"}
+{"time":"2024-11-29T19:06:15.0910034+05:30","level":"INFO","msg":"sender: started","stream_id":"i2cvqcjc"}
+{"time":"2024-11-29T19:06:15.0915134+05:30","level":"INFO","msg":"handler: started","stream_id":"i2cvqcjc"}
+{"time":"2024-11-29T19:06:15.4776879+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T19:06:24.6335638+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T19:06:24.634098+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T19:06:25.6481332+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.6953697},{"desc":"uploading config.yaml","runtime_seconds":0.3457689,"progress":"757B/757B"},{"desc":"uploading output.log","runtime_seconds":0.3457689,"progress":"10.2KB/10.2KB"}],"total_operations":3}}
+{"time":"2024-11-29T19:06:28.4961471+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T19:06:29.9737669+05:30","level":"INFO","msg":"stream: closing","id":"i2cvqcjc"}
+{"time":"2024-11-29T19:06:29.9737669+05:30","level":"INFO","msg":"handler: closed","stream_id":"i2cvqcjc"}
+{"time":"2024-11-29T19:06:29.9737669+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"i2cvqcjc"}
+{"time":"2024-11-29T19:06:29.9737669+05:30","level":"INFO","msg":"sender: closed","stream_id":"i2cvqcjc"}
+{"time":"2024-11-29T19:06:29.9737669+05:30","level":"INFO","msg":"stream: closed","id":"i2cvqcjc"}

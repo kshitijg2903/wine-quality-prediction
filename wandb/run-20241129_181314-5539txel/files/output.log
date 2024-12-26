@@ -1,0 +1,15 @@
+Traceback (most recent call last):
+  File "C:\Users\U\anaconda3\envs\MLOps_env\lib\site-packages\wandb\sdk\wandb_config.py", line 165, in __getattr__
+    return self.__getitem__(key)
+  File "C:\Users\U\anaconda3\envs\MLOps_env\lib\site-packages\wandb\sdk\wandb_config.py", line 130, in __getitem__
+    return self._items[key]
+KeyError: 'scaling_method'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\U\Desktop\Wine Quality Prediction\src\train\train.py", line 53, in train_NN
+    X_scaled = scale_data(X, method=config.scaling_method)
+  File "C:\Users\U\anaconda3\envs\MLOps_env\lib\site-packages\wandb\sdk\wandb_config.py", line 167, in __getattr__
+    raise AttributeError(
+AttributeError: <class 'wandb.sdk.wandb_config.Config'> object has no attribute 'scaling_method'

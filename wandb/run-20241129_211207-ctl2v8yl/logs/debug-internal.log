@@ -1,0 +1,18 @@
+{"time":"2024-11-29T21:12:07.5967634+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T21:12:07.5967634+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_211207-ctl2v8yl\\logs\\debug-core.log"}
+{"time":"2024-11-29T21:12:07.7121444+05:30","level":"INFO","msg":"created new stream","id":"ctl2v8yl"}
+{"time":"2024-11-29T21:12:07.7121444+05:30","level":"INFO","msg":"stream: started","id":"ctl2v8yl"}
+{"time":"2024-11-29T21:12:07.7121444+05:30","level":"INFO","msg":"handler: started","stream_id":"ctl2v8yl"}
+{"time":"2024-11-29T21:12:07.7121444+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ctl2v8yl"}
+{"time":"2024-11-29T21:12:07.7121444+05:30","level":"INFO","msg":"sender: started","stream_id":"ctl2v8yl"}
+{"time":"2024-11-29T21:12:08.0854264+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T21:12:18.0855489+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-11-29T21:12:32.3110491+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T21:12:32.3121294+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T21:12:33.3266313+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.7036346},{"desc":"uploading config.yaml","runtime_seconds":0.361478,"progress":"757B/757B"},{"desc":"uploading output.log","runtime_seconds":0.361478,"progress":"24.5KB/24.5KB"}],"total_operations":3}}
+{"time":"2024-11-29T21:12:36.004511+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T21:12:37.5344037+05:30","level":"INFO","msg":"stream: closing","id":"ctl2v8yl"}
+{"time":"2024-11-29T21:12:37.5344037+05:30","level":"INFO","msg":"handler: closed","stream_id":"ctl2v8yl"}
+{"time":"2024-11-29T21:12:37.5344037+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ctl2v8yl"}
+{"time":"2024-11-29T21:12:37.5344037+05:30","level":"INFO","msg":"sender: closed","stream_id":"ctl2v8yl"}
+{"time":"2024-11-29T21:12:37.5344037+05:30","level":"INFO","msg":"stream: closed","id":"ctl2v8yl"}

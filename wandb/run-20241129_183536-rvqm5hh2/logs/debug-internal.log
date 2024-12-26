@@ -1,0 +1,17 @@
+{"time":"2024-11-29T18:35:36.6255797+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T18:35:36.6255797+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_183536-rvqm5hh2\\logs\\debug-core.log"}
+{"time":"2024-11-29T18:35:36.7419877+05:30","level":"INFO","msg":"created new stream","id":"rvqm5hh2"}
+{"time":"2024-11-29T18:35:36.7419877+05:30","level":"INFO","msg":"stream: started","id":"rvqm5hh2"}
+{"time":"2024-11-29T18:35:36.7419877+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rvqm5hh2"}
+{"time":"2024-11-29T18:35:36.7419877+05:30","level":"INFO","msg":"handler: started","stream_id":"rvqm5hh2"}
+{"time":"2024-11-29T18:35:36.7419877+05:30","level":"INFO","msg":"sender: started","stream_id":"rvqm5hh2"}
+{"time":"2024-11-29T18:35:37.1383943+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T18:35:42.1767322+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T18:35:42.1767322+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T18:35:43.1793392+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.6623098},{"desc":"uploading output.log","runtime_seconds":0.314142,"progress":"9.5KB/9.5KB"},{"desc":"uploading config.yaml","runtime_seconds":0.314142,"progress":"758B/758B"}],"total_operations":3}}
+{"time":"2024-11-29T18:35:46.0084593+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T18:35:47.4921578+05:30","level":"INFO","msg":"stream: closing","id":"rvqm5hh2"}
+{"time":"2024-11-29T18:35:47.4921578+05:30","level":"INFO","msg":"handler: closed","stream_id":"rvqm5hh2"}
+{"time":"2024-11-29T18:35:47.4921578+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rvqm5hh2"}
+{"time":"2024-11-29T18:35:47.4921578+05:30","level":"INFO","msg":"sender: closed","stream_id":"rvqm5hh2"}
+{"time":"2024-11-29T18:35:47.4926643+05:30","level":"INFO","msg":"stream: closed","id":"rvqm5hh2"}

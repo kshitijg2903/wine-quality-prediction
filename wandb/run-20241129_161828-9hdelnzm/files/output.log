@@ -1,0 +1,97 @@
+Epoch 1/500, Loss: 1.6381707725853756, Accuracy: 0.3687
+Epoch 2/500, Loss: 1.222334754878077, Accuracy: 0.5416
+Epoch 3/500, Loss: 1.0562665195300662, Accuracy: 0.5832
+Epoch 4/500, Loss: 1.0108989764904153, Accuracy: 0.5974
+Epoch 5/500, Loss: 0.9840376952598835, Accuracy: 0.6116
+Epoch 6/500, Loss: 0.9632896801521038, Accuracy: 0.6160
+Epoch 7/500, Loss: 0.9487981118004898, Accuracy: 0.6149
+Epoch 8/500, Loss: 0.9336304705718468, Accuracy: 0.6182
+Epoch 9/500, Loss: 0.925415707045588, Accuracy: 0.6225
+Epoch 10/500, Loss: 0.920887920363196, Accuracy: 0.6291
+Epoch 11/500, Loss: 0.90996188130872, Accuracy: 0.6269
+Epoch 12/500, Loss: 0.8900424488659563, Accuracy: 0.6324
+Epoch 13/500, Loss: 0.8861644021395979, Accuracy: 0.6444
+Epoch 14/500, Loss: 0.8815328149959959, Accuracy: 0.6433
+Epoch 15/500, Loss: 0.8699741918465187, Accuracy: 0.6499
+Epoch 16/500, Loss: 0.865033994460928, Accuracy: 0.6532
+Epoch 17/500, Loss: 0.858839725625926, Accuracy: 0.6444
+Epoch 18/500, Loss: 0.8498917941389412, Accuracy: 0.6510
+Epoch 19/500, Loss: 0.8480213284492493, Accuracy: 0.6488
+Epoch 20/500, Loss: 0.8441480028218237, Accuracy: 0.6543
+Epoch 21/500, Loss: 0.8319805819412758, Accuracy: 0.6630
+Epoch 22/500, Loss: 0.8228035322551069, Accuracy: 0.6652
+Epoch 23/500, Loss: 0.8204961706852091, Accuracy: 0.6641
+Epoch 24/500, Loss: 0.8145493186753372, Accuracy: 0.6696
+Epoch 25/500, Loss: 0.8068135216318327, Accuracy: 0.6729
+Epoch 26/500, Loss: 0.79937194133627, Accuracy: 0.6740
+Epoch 27/500, Loss: 0.7935769681272835, Accuracy: 0.6685
+Epoch 28/500, Loss: 0.7934767398340948, Accuracy: 0.6663
+Epoch 29/500, Loss: 0.7752683614862377, Accuracy: 0.6871
+Epoch 30/500, Loss: 0.779232265620396, Accuracy: 0.6718
+Epoch 31/500, Loss: 0.7653754024670042, Accuracy: 0.6947
+Epoch 32/500, Loss: 0.7713719709166165, Accuracy: 0.6816
+Epoch 33/500, Loss: 0.7576781367433483, Accuracy: 0.6827
+Epoch 34/500, Loss: 0.7597986326135439, Accuracy: 0.6794
+Epoch 35/500, Loss: 0.7597641184412199, Accuracy: 0.6816
+Epoch 36/500, Loss: 0.7571673434356163, Accuracy: 0.6849
+Epoch 37/500, Loss: 0.7470967009149748, Accuracy: 0.6947
+Epoch 38/500, Loss: 0.735620993992378, Accuracy: 0.6958
+Epoch 39/500, Loss: 0.7309650162170673, Accuracy: 0.6904
+Epoch 40/500, Loss: 0.7228062954442255, Accuracy: 0.6947
+Epoch 41/500, Loss: 0.7191927145267355, Accuracy: 0.7002
+Epoch 42/500, Loss: 0.7130641937255859, Accuracy: 0.6980
+Epoch 43/500, Loss: 0.7067024193961045, Accuracy: 0.7079
+Epoch 44/500, Loss: 0.7016232476152223, Accuracy: 0.7035
+Epoch 45/500, Loss: 0.7003589519138994, Accuracy: 0.7123
+Epoch 46/500, Loss: 0.6917052361471899, Accuracy: 0.7177
+Epoch 47/500, Loss: 0.6860532925046724, Accuracy: 0.7155
+Epoch 48/500, Loss: 0.6805487131250316, Accuracy: 0.7133
+Epoch 49/500, Loss: 0.6786249372465857, Accuracy: 0.7166
+Epoch 50/500, Loss: 0.6723214572873609, Accuracy: 0.7287
+Epoch 51/500, Loss: 0.6621596556285332, Accuracy: 0.7221
+Epoch 52/500, Loss: 0.6574919850661837, Accuracy: 0.7254
+Epoch 53/500, Loss: 0.6536089120240047, Accuracy: 0.7319
+Epoch 54/500, Loss: 0.6458826578896621, Accuracy: 0.7254
+Epoch 55/500, Loss: 0.6523137606423477, Accuracy: 0.7352
+Epoch 56/500, Loss: 0.640414670623582, Accuracy: 0.7462
+Epoch 57/500, Loss: 0.6289830567507908, Accuracy: 0.7396
+Epoch 58/500, Loss: 0.6308943238751642, Accuracy: 0.7374
+Epoch 59/500, Loss: 0.6257143102843186, Accuracy: 0.7429
+Epoch 60/500, Loss: 0.612748586925967, Accuracy: 0.7484
+Epoch 61/500, Loss: 0.6057004589458992, Accuracy: 0.7549
+Epoch 62/500, Loss: 0.6095756384833105, Accuracy: 0.7462
+Epoch 63/500, Loss: 0.6102454600663021, Accuracy: 0.7462
+Epoch 64/500, Loss: 0.5950756946514393, Accuracy: 0.7527
+Epoch 65/500, Loss: 0.5914607972934328, Accuracy: 0.7560
+Epoch 66/500, Loss: 0.5807884438284512, Accuracy: 0.7593
+Epoch 67/500, Loss: 0.5835995643303312, Accuracy: 0.7702
+Epoch 68/500, Loss: 0.5842678197498979, Accuracy: 0.7582
+Epoch 69/500, Loss: 0.5683529078960419, Accuracy: 0.7702
+Epoch 70/500, Loss: 0.5772496307718342, Accuracy: 0.7724
+Epoch 71/500, Loss: 0.5674902807021963, Accuracy: 0.7670
+Epoch 72/500, Loss: 0.5555380593086111, Accuracy: 0.7779
+Epoch 73/500, Loss: 0.5542494921848692, Accuracy: 0.7790
+Epoch 74/500, Loss: 0.5546303257859987, Accuracy: 0.7670
+Epoch 75/500, Loss: 0.5441725038248917, Accuracy: 0.7801
+Epoch 76/500, Loss: 0.5355211516906475, Accuracy: 0.7801
+Epoch 77/500, Loss: 0.5388908375953806, Accuracy: 0.7801
+Epoch 78/500, Loss: 0.5224787212651352, Accuracy: 0.7954
+Epoch 79/500, Loss: 0.5210300015992132, Accuracy: 0.7888
+Epoch 80/500, Loss: 0.5280679690426794, Accuracy: 0.7823
+Epoch 81/500, Loss: 0.520661651060499, Accuracy: 0.7921
+Epoch 82/500, Loss: 0.5129370257772249, Accuracy: 0.8009
+Epoch 83/500, Loss: 0.505809713026573, Accuracy: 0.7921
+Traceback (most recent call last):
+  File "c:\Users\U\Desktop\Wine Quality Prediction\src\train\train.py", line 139, in <module>
+    train_NN(filepath=filepath, NN_type="NN_Shallow")
+  File "c:\Users\U\Desktop\Wine Quality Prediction\src\train\train.py", line 101, in train_NN
+    loss = criterion(outputs, y_batch)
+  File "C:\Users\U\anaconda3\envs\MLOps_env\lib\site-packages\torch\nn\modules\module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "C:\Users\U\anaconda3\envs\MLOps_env\lib\site-packages\torch\nn\modules\module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "C:\Users\U\anaconda3\envs\MLOps_env\lib\site-packages\torch\nn\modules\loss.py", line 1188, in forward
+    return F.cross_entropy(input, target, weight=self.weight,
+  File "C:\Users\U\anaconda3\envs\MLOps_env\lib\site-packages\torch\nn\functional.py", line 3104, in cross_entropy
+    return torch._C._nn.cross_entropy_loss(input, target, weight, _Reduction.get_enum(reduction), ignore_index, label_smoothing)
+KeyboardInterrupt

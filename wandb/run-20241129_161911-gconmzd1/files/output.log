@@ -1,0 +1,125 @@
+Epoch 1/100, Loss: 1.5057587541382889, Accuracy: 0.4442
+Epoch 2/100, Loss: 1.1965562577905327, Accuracy: 0.5328
+Epoch 3/100, Loss: 1.0951864883817475, Accuracy: 0.5624
+Epoch 4/100, Loss: 1.0745234509994244, Accuracy: 0.5525
+Epoch 5/100, Loss: 1.0562925647045005, Accuracy: 0.5667
+Epoch 6/100, Loss: 1.0324517837886154, Accuracy: 0.5853
+Epoch 7/100, Loss: 1.0058316300655235, Accuracy: 0.5799
+Epoch 8/100, Loss: 0.9985824494526304, Accuracy: 0.5842
+Epoch 9/100, Loss: 0.9736249487975548, Accuracy: 0.5985
+Epoch 10/100, Loss: 0.9836673284399098, Accuracy: 0.5963
+Epoch 11/100, Loss: 0.9560253866787615, Accuracy: 0.6018
+Epoch 12/100, Loss: 0.9738667155134266, Accuracy: 0.5996
+Epoch 13/100, Loss: 0.9566486703938452, Accuracy: 0.5908
+Epoch 14/100, Loss: 0.9374104882108754, Accuracy: 0.6039
+Epoch 15/100, Loss: 0.9561513395145022, Accuracy: 0.6018
+Epoch 16/100, Loss: 0.9388765261091035, Accuracy: 0.6007
+Epoch 17/100, Loss: 0.9326717832992817, Accuracy: 0.6028
+Epoch 18/100, Loss: 0.9394944104655035, Accuracy: 0.6094
+Epoch 19/100, Loss: 0.9307592367303783, Accuracy: 0.6105
+Epoch 20/100, Loss: 0.9281831650898374, Accuracy: 0.6138
+Epoch 21/100, Loss: 0.9222170525583727, Accuracy: 0.6204
+Epoch 22/100, Loss: 0.9206038877881807, Accuracy: 0.6302
+Epoch 23/100, Loss: 0.9140306526216967, Accuracy: 0.6171
+Epoch 24/100, Loss: 0.8970184675578413, Accuracy: 0.6193
+Epoch 25/100, Loss: 0.8962897206174916, Accuracy: 0.6269
+Epoch 26/100, Loss: 0.9216126224090313, Accuracy: 0.6171
+Epoch 27/100, Loss: 0.9149622197808891, Accuracy: 0.6127
+Epoch 28/100, Loss: 0.8997016158597223, Accuracy: 0.6018
+Epoch 29/100, Loss: 0.9048355735581497, Accuracy: 0.6302
+Epoch 30/100, Loss: 0.898240313447755, Accuracy: 0.6236
+Epoch 31/100, Loss: 0.9109886514729467, Accuracy: 0.6072
+Epoch 32/100, Loss: 0.8878203918193949, Accuracy: 0.6291
+Epoch 33/100, Loss: 0.8930776221998806, Accuracy: 0.6335
+Epoch 34/100, Loss: 0.8942518748086075, Accuracy: 0.6116
+Epoch 35/100, Loss: 0.8803112424653152, Accuracy: 0.6236
+Epoch 36/100, Loss: 0.896899231548967, Accuracy: 0.6225
+Epoch 37/100, Loss: 0.8858007726998165, Accuracy: 0.6368
+Epoch 38/100, Loss: 0.8864001857823339, Accuracy: 0.6280
+Epoch 39/100, Loss: 0.8818744996498371, Accuracy: 0.6313
+Epoch 40/100, Loss: 0.8787187337875366, Accuracy: 0.6335
+Epoch 41/100, Loss: 0.8711338557046036, Accuracy: 0.6389
+Epoch 42/100, Loss: 0.8793873704712967, Accuracy: 0.6236
+Epoch 43/100, Loss: 0.8584538821516365, Accuracy: 0.6488
+Epoch 44/100, Loss: 0.8687904415459469, Accuracy: 0.6291
+Epoch 45/100, Loss: 0.8550082938424473, Accuracy: 0.6433
+Epoch 46/100, Loss: 0.8715219826533877, Accuracy: 0.6368
+Epoch 47/100, Loss: 0.8566231398746885, Accuracy: 0.6258
+Epoch 48/100, Loss: 0.8747869894422334, Accuracy: 0.6280
+Epoch 49/100, Loss: 0.883867909168375, Accuracy: 0.6247
+Epoch 50/100, Loss: 0.8668046819752661, Accuracy: 0.6302
+Epoch 51/100, Loss: 0.8538684392797535, Accuracy: 0.6433
+Epoch 52/100, Loss: 0.8767032664397667, Accuracy: 0.6433
+Epoch 53/100, Loss: 0.8559251078243914, Accuracy: 0.6280
+Epoch 54/100, Loss: 0.8649315237998962, Accuracy: 0.6269
+Epoch 55/100, Loss: 0.8719421871777239, Accuracy: 0.6400
+Epoch 56/100, Loss: 0.8733618978796334, Accuracy: 0.6127
+Epoch 57/100, Loss: 0.859191660223336, Accuracy: 0.6477
+Epoch 58/100, Loss: 0.8387869596481323, Accuracy: 0.6521
+Epoch 59/100, Loss: 0.8525641622214482, Accuracy: 0.6641
+Epoch 60/100, Loss: 0.8568900659166533, Accuracy: 0.6324
+Epoch 61/100, Loss: 0.8436156223560202, Accuracy: 0.6433
+Epoch 62/100, Loss: 0.8676284551620483, Accuracy: 0.6335
+Epoch 63/100, Loss: 0.8655524582698427, Accuracy: 0.6488
+Epoch 64/100, Loss: 0.842989903071831, Accuracy: 0.6466
+Epoch 65/100, Loss: 0.8390398909305704, Accuracy: 0.6346
+Epoch 66/100, Loss: 0.8334077000617981, Accuracy: 0.6433
+Epoch 67/100, Loss: 0.82844811883466, Accuracy: 0.6444
+Epoch 68/100, Loss: 0.8413602874196809, Accuracy: 0.6488
+Epoch 69/100, Loss: 0.8162535572874134, Accuracy: 0.6444
+Epoch 70/100, Loss: 0.8449385145614887, Accuracy: 0.6488
+Epoch 71/100, Loss: 0.8330322319063647, Accuracy: 0.6510
+Epoch 72/100, Loss: 0.8326316784168112, Accuracy: 0.6313
+Epoch 73/100, Loss: 0.8314396965092626, Accuracy: 0.6368
+Epoch 74/100, Loss: 0.8218675790161922, Accuracy: 0.6477
+Epoch 75/100, Loss: 0.8281642445202532, Accuracy: 0.6586
+Epoch 76/100, Loss: 0.8249098802434986, Accuracy: 0.6455
+Epoch 77/100, Loss: 0.8160777297513239, Accuracy: 0.6652
+Epoch 78/100, Loss: 0.8208591074779116, Accuracy: 0.6597
+Epoch 79/100, Loss: 0.8362383863021587, Accuracy: 0.6597
+Epoch 80/100, Loss: 0.8202676916944569, Accuracy: 0.6433
+Epoch 81/100, Loss: 0.8422576785087585, Accuracy: 0.6510
+Epoch 82/100, Loss: 0.824728299831522, Accuracy: 0.6499
+Epoch 83/100, Loss: 0.8250485062599182, Accuracy: 0.6346
+Epoch 84/100, Loss: 0.8126639353817907, Accuracy: 0.6685
+Epoch 85/100, Loss: 0.8279783355778662, Accuracy: 0.6488
+Epoch 86/100, Loss: 0.816963294456745, Accuracy: 0.6608
+Epoch 87/100, Loss: 0.813688942070665, Accuracy: 0.6597
+Epoch 88/100, Loss: 0.7984908079278881, Accuracy: 0.6619
+Epoch 89/100, Loss: 0.8176587511753214, Accuracy: 0.6554
+Epoch 90/100, Loss: 0.8039375851894247, Accuracy: 0.6597
+Epoch 91/100, Loss: 0.814791660884331, Accuracy: 0.6674
+Epoch 92/100, Loss: 0.815020686593549, Accuracy: 0.6499
+Epoch 93/100, Loss: 0.82525759113246, Accuracy: 0.6586
+Epoch 94/100, Loss: 0.8035355826904034, Accuracy: 0.6586
+Epoch 95/100, Loss: 0.8341249412503736, Accuracy: 0.6597
+Epoch 96/100, Loss: 0.8135053340730996, Accuracy: 0.6619
+Epoch 97/100, Loss: 0.7998270865144401, Accuracy: 0.6597
+Epoch 98/100, Loss: 0.8132484236667896, Accuracy: 0.6521
+Epoch 99/100, Loss: 0.8066404410477342, Accuracy: 0.6652
+Epoch 100/100, Loss: 0.8008304361639351, Accuracy: 0.6685
+Classification Report:
+C:\Users\U\anaconda3\envs\MLOps_env\lib\site-packages\sklearn\metrics\_classification.py:1248: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+C:\Users\U\anaconda3\envs\MLOps_env\lib\site-packages\sklearn\metrics\_classification.py:1248: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+C:\Users\U\anaconda3\envs\MLOps_env\lib\site-packages\sklearn\metrics\_classification.py:1248: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00         6
+           1       0.00      0.00      0.00        96
+           2       0.30      0.31      0.31        99
+           3       0.13      0.50      0.20        26
+           4       0.08      1.00      0.15         2
+
+    accuracy                           0.20       229
+   macro avg       0.10      0.36      0.13       229
+weighted avg       0.14      0.20      0.16       229
+
+Confusion Matrix:
+[[ 0  0  3  3  0]
+ [ 0  0 69 26  1]
+ [ 0  0 31 59  9]
+ [ 0  0  1 13 12]
+ [ 0  0  0  0  2]]

@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "c:\Users\U\Desktop\Wine Quality Prediction\src\train\train.py", line 122, in <module>
+    train_NN(filepath=filepath, NN_type="NN_Shallow")
+  File "c:\Users\U\Desktop\Wine Quality Prediction\src\train\train.py", line 62, in train_NN
+    X_train_tensor = torch.tensor(X_train, dtype=torch.float32)
+ValueError: could not determine the shape of object type 'DataFrame'

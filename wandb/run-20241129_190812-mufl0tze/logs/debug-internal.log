@@ -1,0 +1,17 @@
+{"time":"2024-11-29T19:08:12.459689+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T19:08:12.459689+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_190812-mufl0tze\\logs\\debug-core.log"}
+{"time":"2024-11-29T19:08:12.5713395+05:30","level":"INFO","msg":"created new stream","id":"mufl0tze"}
+{"time":"2024-11-29T19:08:12.5713395+05:30","level":"INFO","msg":"stream: started","id":"mufl0tze"}
+{"time":"2024-11-29T19:08:12.5713395+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"mufl0tze"}
+{"time":"2024-11-29T19:08:12.5713395+05:30","level":"INFO","msg":"handler: started","stream_id":"mufl0tze"}
+{"time":"2024-11-29T19:08:12.5718549+05:30","level":"INFO","msg":"sender: started","stream_id":"mufl0tze"}
+{"time":"2024-11-29T19:08:12.9840468+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T19:08:21.3866017+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T19:08:21.387113+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T19:08:22.3904981+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.6794354},{"desc":"uploading config.yaml","runtime_seconds":0.3419094,"progress":"756B/756B"},{"desc":"uploading output.log","runtime_seconds":0.3419094,"progress":"10.2KB/10.2KB"}],"total_operations":3}}
+{"time":"2024-11-29T19:08:25.1328216+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T19:08:26.6279507+05:30","level":"INFO","msg":"stream: closing","id":"mufl0tze"}
+{"time":"2024-11-29T19:08:26.6279507+05:30","level":"INFO","msg":"handler: closed","stream_id":"mufl0tze"}
+{"time":"2024-11-29T19:08:26.6279507+05:30","level":"INFO","msg":"sender: closed","stream_id":"mufl0tze"}
+{"time":"2024-11-29T19:08:26.6279507+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"mufl0tze"}
+{"time":"2024-11-29T19:08:26.6294592+05:30","level":"INFO","msg":"stream: closed","id":"mufl0tze"}

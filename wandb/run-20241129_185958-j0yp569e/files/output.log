@@ -1,0 +1,120 @@
+Epoch 1/100, Train Loss: 1.9035, Train Accuracy: 0.0438, Val Loss: 1.8541, Val Accuracy: 0.0929
+Epoch 2/100, Train Loss: 1.8065, Train Accuracy: 0.1847, Val Loss: 1.7748, Val Accuracy: 0.2623
+Epoch 3/100, Train Loss: 1.7072, Train Accuracy: 0.3721, Val Loss: 1.6849, Val Accuracy: 0.3770
+Epoch 4/100, Train Loss: 1.6039, Train Accuracy: 0.4665, Val Loss: 1.5783, Val Accuracy: 0.3880
+Epoch 5/100, Train Loss: 1.4817, Train Accuracy: 0.4884, Val Loss: 1.4678, Val Accuracy: 0.4044
+Epoch 6/100, Train Loss: 1.3590, Train Accuracy: 0.5075, Val Loss: 1.3725, Val Accuracy: 0.4426
+Epoch 7/100, Train Loss: 1.2416, Train Accuracy: 0.5335, Val Loss: 1.3049, Val Accuracy: 0.4699
+Epoch 8/100, Train Loss: 1.1991, Train Accuracy: 0.5376, Val Loss: 1.2576, Val Accuracy: 0.4754
+Epoch 9/100, Train Loss: 1.1529, Train Accuracy: 0.5445, Val Loss: 1.2276, Val Accuracy: 0.4918
+Epoch 10/100, Train Loss: 1.1146, Train Accuracy: 0.5609, Val Loss: 1.2011, Val Accuracy: 0.4918
+Epoch 11/100, Train Loss: 1.1415, Train Accuracy: 0.5376, Val Loss: 1.1761, Val Accuracy: 0.4918
+Epoch 12/100, Train Loss: 1.0810, Train Accuracy: 0.5814, Val Loss: 1.1618, Val Accuracy: 0.4918
+Epoch 13/100, Train Loss: 1.0735, Train Accuracy: 0.5732, Val Loss: 1.1466, Val Accuracy: 0.4918
+Epoch 14/100, Train Loss: 1.0524, Train Accuracy: 0.5691, Val Loss: 1.1373, Val Accuracy: 0.4918
+Epoch 15/100, Train Loss: 1.0687, Train Accuracy: 0.5499, Val Loss: 1.1290, Val Accuracy: 0.5137
+Epoch 16/100, Train Loss: 1.0505, Train Accuracy: 0.5800, Val Loss: 1.1245, Val Accuracy: 0.5191
+Epoch 17/100, Train Loss: 1.0388, Train Accuracy: 0.5910, Val Loss: 1.1159, Val Accuracy: 0.5301
+Epoch 18/100, Train Loss: 1.0328, Train Accuracy: 0.5841, Val Loss: 1.1100, Val Accuracy: 0.5464
+Epoch 19/100, Train Loss: 1.0384, Train Accuracy: 0.5677, Val Loss: 1.1100, Val Accuracy: 0.5301
+Epoch 20/100, Train Loss: 1.0218, Train Accuracy: 0.5773, Val Loss: 1.1058, Val Accuracy: 0.5410
+Epoch 21/100, Train Loss: 0.9930, Train Accuracy: 0.6019, Val Loss: 1.0965, Val Accuracy: 0.5519
+Epoch 22/100, Train Loss: 1.0111, Train Accuracy: 0.5486, Val Loss: 1.0957, Val Accuracy: 0.5410
+Epoch 23/100, Train Loss: 1.0212, Train Accuracy: 0.5691, Val Loss: 1.0897, Val Accuracy: 0.5574
+Epoch 24/100, Train Loss: 1.0167, Train Accuracy: 0.5732, Val Loss: 1.0903, Val Accuracy: 0.5519
+Epoch 25/100, Train Loss: 1.0101, Train Accuracy: 0.5787, Val Loss: 1.0834, Val Accuracy: 0.5574
+Epoch 26/100, Train Loss: 0.9694, Train Accuracy: 0.5978, Val Loss: 1.0839, Val Accuracy: 0.5410
+Epoch 27/100, Train Loss: 0.9953, Train Accuracy: 0.5869, Val Loss: 1.0844, Val Accuracy: 0.5574
+Epoch 28/100, Train Loss: 0.9901, Train Accuracy: 0.5951, Val Loss: 1.0861, Val Accuracy: 0.5519
+Epoch 29/100, Train Loss: 0.9907, Train Accuracy: 0.5787, Val Loss: 1.0826, Val Accuracy: 0.5574
+Epoch 30/100, Train Loss: 1.0074, Train Accuracy: 0.5992, Val Loss: 1.0790, Val Accuracy: 0.5628
+Epoch 31/100, Train Loss: 1.0071, Train Accuracy: 0.5841, Val Loss: 1.0720, Val Accuracy: 0.5628
+Epoch 32/100, Train Loss: 0.9726, Train Accuracy: 0.5992, Val Loss: 1.0690, Val Accuracy: 0.5574
+Epoch 33/100, Train Loss: 0.9830, Train Accuracy: 0.6101, Val Loss: 1.0708, Val Accuracy: 0.5628
+Epoch 34/100, Train Loss: 0.9638, Train Accuracy: 0.6142, Val Loss: 1.0688, Val Accuracy: 0.5574
+Epoch 35/100, Train Loss: 0.9704, Train Accuracy: 0.5978, Val Loss: 1.0704, Val Accuracy: 0.5628
+Epoch 36/100, Train Loss: 0.9607, Train Accuracy: 0.6088, Val Loss: 1.0674, Val Accuracy: 0.5574
+Epoch 37/100, Train Loss: 0.9914, Train Accuracy: 0.5896, Val Loss: 1.0639, Val Accuracy: 0.5574
+Epoch 38/100, Train Loss: 0.9695, Train Accuracy: 0.5718, Val Loss: 1.0633, Val Accuracy: 0.5628
+Epoch 39/100, Train Loss: 0.9683, Train Accuracy: 0.6005, Val Loss: 1.0622, Val Accuracy: 0.5628
+Epoch 40/100, Train Loss: 0.9502, Train Accuracy: 0.6224, Val Loss: 1.0622, Val Accuracy: 0.5683
+Epoch 41/100, Train Loss: 0.9772, Train Accuracy: 0.6005, Val Loss: 1.0553, Val Accuracy: 0.5738
+Epoch 42/100, Train Loss: 0.9577, Train Accuracy: 0.6129, Val Loss: 1.0530, Val Accuracy: 0.5738
+Epoch 43/100, Train Loss: 0.9507, Train Accuracy: 0.6047, Val Loss: 1.0510, Val Accuracy: 0.5792
+Epoch 44/100, Train Loss: 0.9514, Train Accuracy: 0.6156, Val Loss: 1.0521, Val Accuracy: 0.5792
+Epoch 45/100, Train Loss: 0.9500, Train Accuracy: 0.6252, Val Loss: 1.0591, Val Accuracy: 0.5738
+Epoch 46/100, Train Loss: 0.9418, Train Accuracy: 0.6115, Val Loss: 1.0524, Val Accuracy: 0.5902
+Epoch 47/100, Train Loss: 0.9295, Train Accuracy: 0.6019, Val Loss: 1.0522, Val Accuracy: 0.5738
+Epoch 48/100, Train Loss: 0.9341, Train Accuracy: 0.6088, Val Loss: 1.0512, Val Accuracy: 0.5628
+Epoch 49/100, Train Loss: 0.9291, Train Accuracy: 0.6183, Val Loss: 1.0562, Val Accuracy: 0.5683
+Epoch 50/100, Train Loss: 0.9283, Train Accuracy: 0.6115, Val Loss: 1.0550, Val Accuracy: 0.5683
+Epoch 51/100, Train Loss: 0.9287, Train Accuracy: 0.6293, Val Loss: 1.0476, Val Accuracy: 0.5574
+Epoch 52/100, Train Loss: 0.9415, Train Accuracy: 0.6005, Val Loss: 1.0430, Val Accuracy: 0.5683
+Epoch 53/100, Train Loss: 0.9412, Train Accuracy: 0.5923, Val Loss: 1.0408, Val Accuracy: 0.5519
+Epoch 54/100, Train Loss: 0.9571, Train Accuracy: 0.6101, Val Loss: 1.0405, Val Accuracy: 0.5628
+Epoch 55/100, Train Loss: 0.9326, Train Accuracy: 0.6238, Val Loss: 1.0405, Val Accuracy: 0.5519
+Epoch 56/100, Train Loss: 0.9222, Train Accuracy: 0.6101, Val Loss: 1.0452, Val Accuracy: 0.5628
+Epoch 57/100, Train Loss: 0.9392, Train Accuracy: 0.6101, Val Loss: 1.0447, Val Accuracy: 0.5519
+Epoch 58/100, Train Loss: 0.9764, Train Accuracy: 0.5951, Val Loss: 1.0366, Val Accuracy: 0.5574
+Epoch 59/100, Train Loss: 0.9212, Train Accuracy: 0.6170, Val Loss: 1.0349, Val Accuracy: 0.5683
+Epoch 60/100, Train Loss: 0.9297, Train Accuracy: 0.6183, Val Loss: 1.0379, Val Accuracy: 0.5519
+Epoch 61/100, Train Loss: 0.9243, Train Accuracy: 0.6005, Val Loss: 1.0406, Val Accuracy: 0.5574
+Epoch 62/100, Train Loss: 0.9198, Train Accuracy: 0.6265, Val Loss: 1.0409, Val Accuracy: 0.5574
+Epoch 63/100, Train Loss: 0.9410, Train Accuracy: 0.6183, Val Loss: 1.0393, Val Accuracy: 0.5519
+Epoch 64/100, Train Loss: 0.9103, Train Accuracy: 0.6197, Val Loss: 1.0419, Val Accuracy: 0.5464
+Epoch 65/100, Train Loss: 0.8951, Train Accuracy: 0.6224, Val Loss: 1.0405, Val Accuracy: 0.5519
+Epoch 66/100, Train Loss: 0.9113, Train Accuracy: 0.6197, Val Loss: 1.0409, Val Accuracy: 0.5628
+Epoch 67/100, Train Loss: 0.9094, Train Accuracy: 0.6238, Val Loss: 1.0415, Val Accuracy: 0.5628
+Epoch 68/100, Train Loss: 0.9070, Train Accuracy: 0.6265, Val Loss: 1.0377, Val Accuracy: 0.5683
+Epoch 69/100, Train Loss: 0.9242, Train Accuracy: 0.6101, Val Loss: 1.0383, Val Accuracy: 0.5683
+Epoch 70/100, Train Loss: 0.8909, Train Accuracy: 0.6416, Val Loss: 1.0380, Val Accuracy: 0.5683
+Epoch 71/100, Train Loss: 0.8859, Train Accuracy: 0.6320, Val Loss: 1.0332, Val Accuracy: 0.5628
+Epoch 72/100, Train Loss: 0.9007, Train Accuracy: 0.6033, Val Loss: 1.0231, Val Accuracy: 0.5792
+Epoch 73/100, Train Loss: 0.9239, Train Accuracy: 0.6170, Val Loss: 1.0251, Val Accuracy: 0.5847
+Epoch 74/100, Train Loss: 0.9152, Train Accuracy: 0.6183, Val Loss: 1.0285, Val Accuracy: 0.5847
+Epoch 75/100, Train Loss: 0.9156, Train Accuracy: 0.6183, Val Loss: 1.0239, Val Accuracy: 0.5628
+Epoch 76/100, Train Loss: 0.9168, Train Accuracy: 0.6224, Val Loss: 1.0198, Val Accuracy: 0.5628
+Epoch 77/100, Train Loss: 0.9041, Train Accuracy: 0.6402, Val Loss: 1.0242, Val Accuracy: 0.5574
+Epoch 78/100, Train Loss: 0.9034, Train Accuracy: 0.6347, Val Loss: 1.0240, Val Accuracy: 0.5683
+Epoch 79/100, Train Loss: 0.9022, Train Accuracy: 0.6238, Val Loss: 1.0295, Val Accuracy: 0.5738
+Epoch 80/100, Train Loss: 0.8907, Train Accuracy: 0.6416, Val Loss: 1.0233, Val Accuracy: 0.5847
+Epoch 81/100, Train Loss: 0.9169, Train Accuracy: 0.6183, Val Loss: 1.0242, Val Accuracy: 0.5792
+Epoch 82/100, Train Loss: 0.8740, Train Accuracy: 0.6279, Val Loss: 1.0183, Val Accuracy: 0.5902
+Epoch 83/100, Train Loss: 0.8861, Train Accuracy: 0.6553, Val Loss: 1.0225, Val Accuracy: 0.5902
+Epoch 84/100, Train Loss: 0.8861, Train Accuracy: 0.6170, Val Loss: 1.0246, Val Accuracy: 0.5738
+Epoch 85/100, Train Loss: 0.9312, Train Accuracy: 0.6197, Val Loss: 1.0268, Val Accuracy: 0.5738
+Epoch 86/100, Train Loss: 0.9080, Train Accuracy: 0.6129, Val Loss: 1.0245, Val Accuracy: 0.5902
+Epoch 87/100, Train Loss: 0.9210, Train Accuracy: 0.6252, Val Loss: 1.0180, Val Accuracy: 0.5956
+Epoch 88/100, Train Loss: 0.9096, Train Accuracy: 0.6265, Val Loss: 1.0213, Val Accuracy: 0.5847
+Epoch 89/100, Train Loss: 0.8829, Train Accuracy: 0.6361, Val Loss: 1.0208, Val Accuracy: 0.5847
+Epoch 90/100, Train Loss: 0.9182, Train Accuracy: 0.6115, Val Loss: 1.0241, Val Accuracy: 0.5738
+Epoch 91/100, Train Loss: 0.8834, Train Accuracy: 0.6306, Val Loss: 1.0176, Val Accuracy: 0.5902
+Epoch 92/100, Train Loss: 0.9018, Train Accuracy: 0.6211, Val Loss: 1.0231, Val Accuracy: 0.5738
+Epoch 93/100, Train Loss: 0.8843, Train Accuracy: 0.6361, Val Loss: 1.0159, Val Accuracy: 0.5956
+Epoch 94/100, Train Loss: 0.8835, Train Accuracy: 0.6265, Val Loss: 1.0166, Val Accuracy: 0.5956
+Epoch 95/100, Train Loss: 0.8983, Train Accuracy: 0.6211, Val Loss: 1.0221, Val Accuracy: 0.5902
+Epoch 96/100, Train Loss: 0.8817, Train Accuracy: 0.6265, Val Loss: 1.0217, Val Accuracy: 0.5902
+Epoch 97/100, Train Loss: 0.8919, Train Accuracy: 0.6142, Val Loss: 1.0228, Val Accuracy: 0.5847
+Epoch 98/100, Train Loss: 0.9064, Train Accuracy: 0.6060, Val Loss: 1.0228, Val Accuracy: 0.5792
+Epoch 99/100, Train Loss: 0.8929, Train Accuracy: 0.6265, Val Loss: 1.0217, Val Accuracy: 0.5847
+Epoch 100/100, Train Loss: 0.8914, Train Accuracy: 0.6170, Val Loss: 1.0259, Val Accuracy: 0.5847
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      0.00      0.00         6
+           1       1.00      0.00      0.00        96
+           2       0.30      0.32      0.31        99
+           3       0.17      0.69      0.27        26
+           4       0.12      1.00      0.22         2
+
+    accuracy                           0.23       229
+   macro avg       0.52      0.40      0.16       229
+weighted avg       0.60      0.23      0.17       229
+
+Test Confusion Matrix:
+[[ 0  0  3  3  0]
+ [ 0  0 71 24  1]
+ [ 0  0 32 61  6]
+ [ 0  0  1 18  7]
+ [ 0  0  0  0  2]]
+Test Accuracy: 0.2271

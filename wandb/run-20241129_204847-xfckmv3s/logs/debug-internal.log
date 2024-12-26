@@ -1,0 +1,18 @@
+{"time":"2024-11-29T20:48:47.7645003+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T20:48:47.7645003+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_204847-xfckmv3s\\logs\\debug-core.log"}
+{"time":"2024-11-29T20:48:47.8916964+05:30","level":"INFO","msg":"created new stream","id":"xfckmv3s"}
+{"time":"2024-11-29T20:48:47.8922382+05:30","level":"INFO","msg":"stream: started","id":"xfckmv3s"}
+{"time":"2024-11-29T20:48:47.8923413+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"xfckmv3s"}
+{"time":"2024-11-29T20:48:47.8923413+05:30","level":"INFO","msg":"sender: started","stream_id":"xfckmv3s"}
+{"time":"2024-11-29T20:48:47.8923413+05:30","level":"INFO","msg":"handler: started","stream_id":"xfckmv3s"}
+{"time":"2024-11-29T20:48:48.3002094+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T20:48:58.3010998+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-11-29T20:49:32.6503131+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T20:49:32.6508893+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T20:49:33.6550227+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.6852194},{"desc":"uploading config.yaml","runtime_seconds":0.3482259,"progress":"757B/757B"},{"desc":"uploading output.log","runtime_seconds":0.3482259,"progress":"24.5KB/24.5KB"}],"total_operations":3}}
+{"time":"2024-11-29T20:49:36.5354764+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T20:49:37.9042649+05:30","level":"INFO","msg":"stream: closing","id":"xfckmv3s"}
+{"time":"2024-11-29T20:49:37.9042649+05:30","level":"INFO","msg":"handler: closed","stream_id":"xfckmv3s"}
+{"time":"2024-11-29T20:49:37.9042649+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"xfckmv3s"}
+{"time":"2024-11-29T20:49:37.9042649+05:30","level":"INFO","msg":"sender: closed","stream_id":"xfckmv3s"}
+{"time":"2024-11-29T20:49:37.9042649+05:30","level":"INFO","msg":"stream: closed","id":"xfckmv3s"}

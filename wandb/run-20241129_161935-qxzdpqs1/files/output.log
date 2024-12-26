@@ -1,0 +1,119 @@
+Epoch 1/100, Loss: 1.6807388889378514, Accuracy: 0.3457
+Epoch 2/100, Loss: 1.198644966914736, Accuracy: 0.5481
+Epoch 3/100, Loss: 1.0484159609367107, Accuracy: 0.5875
+Epoch 4/100, Loss: 0.9759893540678353, Accuracy: 0.6149
+Epoch 5/100, Loss: 0.9446076545222052, Accuracy: 0.6105
+Epoch 6/100, Loss: 0.9159760064092176, Accuracy: 0.6357
+Epoch 7/100, Loss: 0.8890893952599888, Accuracy: 0.6346
+Epoch 8/100, Loss: 0.8818732335649687, Accuracy: 0.6444
+Epoch 9/100, Loss: 0.8613588686647087, Accuracy: 0.6608
+Epoch 10/100, Loss: 0.8562949258705665, Accuracy: 0.6554
+Epoch 11/100, Loss: 0.8491724236258145, Accuracy: 0.6488
+Epoch 12/100, Loss: 0.8369495992002816, Accuracy: 0.6630
+Epoch 13/100, Loss: 0.8161481063941429, Accuracy: 0.6619
+Epoch 14/100, Loss: 0.8066446102898697, Accuracy: 0.6751
+Epoch 15/100, Loss: 0.7990108913388746, Accuracy: 0.6740
+Epoch 16/100, Loss: 0.7884027793489653, Accuracy: 0.6783
+Epoch 17/100, Loss: 0.777265674081342, Accuracy: 0.6849
+Epoch 18/100, Loss: 0.7840021396505421, Accuracy: 0.6772
+Epoch 19/100, Loss: 0.7694875227993933, Accuracy: 0.6751
+Epoch 20/100, Loss: 0.7634062787582134, Accuracy: 0.6805
+Epoch 21/100, Loss: 0.7398559718296446, Accuracy: 0.6926
+Epoch 22/100, Loss: 0.7409827822241289, Accuracy: 0.7068
+Epoch 23/100, Loss: 0.7175102829933167, Accuracy: 0.6991
+Epoch 24/100, Loss: 0.7238044204383061, Accuracy: 0.6991
+Epoch 25/100, Loss: 0.7298930934790907, Accuracy: 0.6915
+Epoch 26/100, Loss: 0.7140972408755072, Accuracy: 0.6991
+Epoch 27/100, Loss: 0.7229654090157871, Accuracy: 0.7002
+Epoch 28/100, Loss: 0.6821009177586128, Accuracy: 0.7199
+Epoch 29/100, Loss: 0.6870951292843654, Accuracy: 0.7035
+Epoch 30/100, Loss: 0.6585667739654409, Accuracy: 0.7265
+Epoch 31/100, Loss: 0.6675440453249832, Accuracy: 0.7101
+Epoch 32/100, Loss: 0.669672280550003, Accuracy: 0.7123
+Epoch 33/100, Loss: 0.6663510645258015, Accuracy: 0.7232
+Epoch 34/100, Loss: 0.6719462141908449, Accuracy: 0.7068
+Epoch 35/100, Loss: 0.6385034240525345, Accuracy: 0.7341
+Epoch 36/100, Loss: 0.6366069789590507, Accuracy: 0.7309
+Epoch 37/100, Loss: 0.6310830003228681, Accuracy: 0.7385
+Epoch 38/100, Loss: 0.6408201620496553, Accuracy: 0.7385
+Epoch 39/100, Loss: 0.6521326889251841, Accuracy: 0.7199
+Epoch 40/100, Loss: 0.6275608477921322, Accuracy: 0.7462
+Epoch 41/100, Loss: 0.6400161899369339, Accuracy: 0.7309
+Epoch 42/100, Loss: 0.6199030999479622, Accuracy: 0.7352
+Epoch 43/100, Loss: 0.5921963833529373, Accuracy: 0.7571
+Epoch 44/100, Loss: 0.5900213389561094, Accuracy: 0.7505
+Epoch 45/100, Loss: 0.6119039788328368, Accuracy: 0.7495
+Epoch 46/100, Loss: 0.5822772157603296, Accuracy: 0.7681
+Epoch 47/100, Loss: 0.5940206523599296, Accuracy: 0.7560
+Epoch 48/100, Loss: 0.5929737450747654, Accuracy: 0.7505
+Epoch 49/100, Loss: 0.5910451463584242, Accuracy: 0.7473
+Epoch 50/100, Loss: 0.5763644997415871, Accuracy: 0.7615
+Epoch 51/100, Loss: 0.552444367573179, Accuracy: 0.7899
+Epoch 52/100, Loss: 0.553883348045678, Accuracy: 0.7867
+Epoch 53/100, Loss: 0.5580412026109367, Accuracy: 0.7604
+Epoch 54/100, Loss: 0.5329740119391474, Accuracy: 0.7801
+Epoch 55/100, Loss: 0.5607681808800533, Accuracy: 0.7735
+Epoch 56/100, Loss: 0.5464396271212347, Accuracy: 0.7735
+Epoch 57/100, Loss: 0.5490746004828091, Accuracy: 0.7691
+Epoch 58/100, Loss: 0.5148412318065249, Accuracy: 0.7867
+Epoch 59/100, Loss: 0.5092790866720265, Accuracy: 0.8020
+Epoch 60/100, Loss: 0.5173664966533924, Accuracy: 0.7779
+Epoch 61/100, Loss: 0.5345357985332094, Accuracy: 0.7790
+Epoch 62/100, Loss: 0.5030721107433582, Accuracy: 0.8009
+Epoch 63/100, Loss: 0.5115431043608435, Accuracy: 0.7976
+Epoch 64/100, Loss: 0.5271941094562925, Accuracy: 0.7867
+Epoch 65/100, Loss: 0.5324495249781115, Accuracy: 0.7845
+Epoch 66/100, Loss: 0.5177980568902246, Accuracy: 0.7888
+Epoch 67/100, Loss: 0.4937335293868492, Accuracy: 0.8042
+Epoch 68/100, Loss: 0.4674526298868245, Accuracy: 0.8195
+Epoch 69/100, Loss: 0.47101916526925974, Accuracy: 0.8217
+Epoch 70/100, Loss: 0.48231733050839654, Accuracy: 0.8107
+Epoch 71/100, Loss: 0.47949946748799294, Accuracy: 0.8074
+Epoch 72/100, Loss: 0.46350933868309546, Accuracy: 0.8228
+Epoch 73/100, Loss: 0.44237344326644107, Accuracy: 0.8260
+Epoch 74/100, Loss: 0.4927420646979891, Accuracy: 0.7877
+Epoch 75/100, Loss: 0.4830114050158139, Accuracy: 0.8184
+Epoch 76/100, Loss: 0.48937449681347817, Accuracy: 0.7998
+Epoch 77/100, Loss: 0.4644162243810193, Accuracy: 0.8239
+Epoch 78/100, Loss: 0.4621450058345137, Accuracy: 0.8315
+Epoch 79/100, Loss: 0.44198222406979265, Accuracy: 0.8239
+Epoch 80/100, Loss: 0.47185968068139306, Accuracy: 0.8118
+Epoch 81/100, Loss: 0.45734851113681135, Accuracy: 0.8129
+Epoch 82/100, Loss: 0.4409282484958912, Accuracy: 0.8457
+Epoch 83/100, Loss: 0.4273581587035081, Accuracy: 0.8359
+Epoch 84/100, Loss: 0.435227220428401, Accuracy: 0.8184
+Epoch 85/100, Loss: 0.47673963472760955, Accuracy: 0.8020
+Epoch 86/100, Loss: 0.44727558976617354, Accuracy: 0.8118
+Epoch 87/100, Loss: 0.4409028779843758, Accuracy: 0.8414
+Epoch 88/100, Loss: 0.4385935155482128, Accuracy: 0.8239
+Epoch 89/100, Loss: 0.4377242773771286, Accuracy: 0.8282
+Epoch 90/100, Loss: 0.41004289892213097, Accuracy: 0.8414
+Epoch 91/100, Loss: 0.41767881759281816, Accuracy: 0.8326
+Epoch 92/100, Loss: 0.4113662916010824, Accuracy: 0.8348
+Epoch 93/100, Loss: 0.4245463003372324, Accuracy: 0.8425
+Epoch 94/100, Loss: 0.42166818010395973, Accuracy: 0.8337
+Epoch 95/100, Loss: 0.42046644512949316, Accuracy: 0.8435
+Epoch 96/100, Loss: 0.41032101881915123, Accuracy: 0.8381
+Epoch 97/100, Loss: 0.41318122682900266, Accuracy: 0.8468
+Epoch 98/100, Loss: 0.42365683152757844, Accuracy: 0.8293
+Epoch 99/100, Loss: 0.3806530776722678, Accuracy: 0.8534
+Epoch 100/100, Loss: 0.4102208398539445, Accuracy: 0.8446
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00         6
+           1       0.67      0.02      0.04        96
+           2       0.27      0.28      0.28        99
+           3       0.08      0.31      0.13        26
+           4       0.00      0.00      0.00         2
+
+    accuracy                           0.17       229
+   macro avg       0.20      0.12      0.09       229
+weighted avg       0.41      0.17      0.15       229
+
+Confusion Matrix:
+[[ 0  0  3  2  1]
+ [ 1  2 71 21  1]
+ [ 0  1 28 63  7]
+ [ 0  0  1  8 17]
+ [ 0  0  0  2  0]]

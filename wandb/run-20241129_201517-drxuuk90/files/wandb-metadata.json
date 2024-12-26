@@ -1,0 +1,32 @@
+{
+  "os":  "Windows-10-10.0.22631-SP0",
+  "python":  "3.8.20",
+  "startedAt":  "2024-11-29T14:45:17.089012Z",
+  "program":  "c:\\Users\\U\\Desktop\\Wine Quality Prediction\\src\\train\\train.py",
+  "codePath":  "src\\train\\train.py",
+  "git":  {
+    "remote":  "https://github.com/Boltnav/Wine-Quality-Prediction.git",
+    "commit":  "0621db299af1a8a9717778274ed233a5515b38b6"
+  },
+  "email":  "arnav22097@iiitd.ac.in",
+  "root":  "C:\\Users\\U\\Desktop\\Wine Quality Prediction",
+  "host":  "THE-GOAT",
+  "username":  "Arnav Agrawal",
+  "executable":  "C:\\Users\\U\\anaconda3\\envs\\MLOps_env\\python.exe",
+  "codePathLocal":  "src\\train\\train.py",
+  "cpu_count":  12,
+  "cpu_count_logical":  16,
+  "disk":  {
+    "/":  {
+      "total":  "278253268992",
+      "used":  "263833907200"
+    }
+  },
+  "memory":  {
+    "total":  "16785960960"
+  },
+  "cpu":  {
+    "count":  12,
+    "countLogical":  16
+  }
+}

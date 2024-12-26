@@ -1,0 +1,18 @@
+{"time":"2024-11-29T19:05:53.5359878+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T19:05:53.5359878+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_190553-vzs79s9j\\logs\\debug-core.log"}
+{"time":"2024-11-29T19:05:53.6498281+05:30","level":"INFO","msg":"created new stream","id":"vzs79s9j"}
+{"time":"2024-11-29T19:05:53.6498281+05:30","level":"INFO","msg":"stream: started","id":"vzs79s9j"}
+{"time":"2024-11-29T19:05:53.6498281+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"vzs79s9j"}
+{"time":"2024-11-29T19:05:53.6498281+05:30","level":"INFO","msg":"handler: started","stream_id":"vzs79s9j"}
+{"time":"2024-11-29T19:05:53.6498281+05:30","level":"INFO","msg":"sender: started","stream_id":"vzs79s9j"}
+{"time":"2024-11-29T19:05:54.0266059+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T19:06:04.0269181+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-11-29T19:06:07.8514784+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T19:06:07.8514784+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T19:06:08.8586984+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.6916952},{"desc":"uploading config.yaml","runtime_seconds":0.3472679,"progress":"757B/757B"},{"desc":"uploading output.log","runtime_seconds":0.3472679,"progress":"10.2KB/10.2KB"}],"total_operations":3}}
+{"time":"2024-11-29T19:06:11.5612839+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T19:06:12.9191738+05:30","level":"INFO","msg":"stream: closing","id":"vzs79s9j"}
+{"time":"2024-11-29T19:06:12.9191738+05:30","level":"INFO","msg":"handler: closed","stream_id":"vzs79s9j"}
+{"time":"2024-11-29T19:06:12.9191738+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"vzs79s9j"}
+{"time":"2024-11-29T19:06:12.9191738+05:30","level":"INFO","msg":"sender: closed","stream_id":"vzs79s9j"}
+{"time":"2024-11-29T19:06:12.9191738+05:30","level":"INFO","msg":"stream: closed","id":"vzs79s9j"}

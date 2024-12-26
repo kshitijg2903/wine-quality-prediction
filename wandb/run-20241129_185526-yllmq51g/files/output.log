@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "c:\Users\U\Desktop\Wine Quality Prediction\src\train\train.py", line 92, in train_NN
+    raise ValueError(f"Unknown NN_type: {NN_type}")
+ValueError: Unknown NN_type: NN_Shallowest

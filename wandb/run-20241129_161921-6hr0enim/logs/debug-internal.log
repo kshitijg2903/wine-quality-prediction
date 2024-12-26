@@ -1,0 +1,17 @@
+{"time":"2024-11-29T16:19:21.9672968+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T16:19:21.9678037+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_161921-6hr0enim\\logs\\debug-core.log"}
+{"time":"2024-11-29T16:19:22.0808219+05:30","level":"INFO","msg":"created new stream","id":"6hr0enim"}
+{"time":"2024-11-29T16:19:22.0809465+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"6hr0enim"}
+{"time":"2024-11-29T16:19:22.0809465+05:30","level":"INFO","msg":"stream: started","id":"6hr0enim"}
+{"time":"2024-11-29T16:19:22.0809465+05:30","level":"INFO","msg":"sender: started","stream_id":"6hr0enim"}
+{"time":"2024-11-29T16:19:22.0809465+05:30","level":"INFO","msg":"handler: started","stream_id":"6hr0enim"}
+{"time":"2024-11-29T16:19:22.6230036+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T16:19:29.7819624+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T16:19:29.782487+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T16:19:30.7919064+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.5996425,"progress":"24.9KB/24.9KB"},{"desc":"saving job artifact","runtime_seconds":0.5984021},{"desc":"uploading config.yaml","runtime_seconds":0.243327,"progress":"817B/817B"},{"desc":"uploading output.log","runtime_seconds":0.243327,"progress":"7.1KB/7.1KB"}],"total_operations":4}}
+{"time":"2024-11-29T16:19:34.1446909+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T16:19:35.6017823+05:30","level":"INFO","msg":"stream: closing","id":"6hr0enim"}
+{"time":"2024-11-29T16:19:35.6017823+05:30","level":"INFO","msg":"handler: closed","stream_id":"6hr0enim"}
+{"time":"2024-11-29T16:19:35.6017823+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"6hr0enim"}
+{"time":"2024-11-29T16:19:35.6017823+05:30","level":"INFO","msg":"sender: closed","stream_id":"6hr0enim"}
+{"time":"2024-11-29T16:19:35.6022874+05:30","level":"INFO","msg":"stream: closed","id":"6hr0enim"}

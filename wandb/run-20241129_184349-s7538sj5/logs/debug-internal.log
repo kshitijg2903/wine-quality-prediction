@@ -1,0 +1,17 @@
+{"time":"2024-11-29T18:43:49.54959+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T18:43:49.550114+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\U\\Desktop\\Wine Quality Prediction\\wandb\\run-20241129_184349-s7538sj5\\logs\\debug-core.log"}
+{"time":"2024-11-29T18:43:49.6644467+05:30","level":"INFO","msg":"created new stream","id":"s7538sj5"}
+{"time":"2024-11-29T18:43:49.6644467+05:30","level":"INFO","msg":"stream: started","id":"s7538sj5"}
+{"time":"2024-11-29T18:43:49.6644467+05:30","level":"INFO","msg":"handler: started","stream_id":"s7538sj5"}
+{"time":"2024-11-29T18:43:49.6649557+05:30","level":"INFO","msg":"sender: started","stream_id":"s7538sj5"}
+{"time":"2024-11-29T18:43:49.6650615+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"s7538sj5"}
+{"time":"2024-11-29T18:43:50.0549574+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T18:43:50.9336224+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T18:43:50.9341333+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T18:43:51.5559119+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.294916},{"desc":"uploading wandb-summary.json","runtime_seconds":0.2782604,"progress":"893B/893B"}],"total_operations":2}}
+{"time":"2024-11-29T18:43:52.2607753+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-29T18:43:53.6476759+05:30","level":"INFO","msg":"stream: closing","id":"s7538sj5"}
+{"time":"2024-11-29T18:43:53.6476759+05:30","level":"INFO","msg":"handler: closed","stream_id":"s7538sj5"}
+{"time":"2024-11-29T18:43:53.6481806+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"s7538sj5"}
+{"time":"2024-11-29T18:43:53.6481806+05:30","level":"INFO","msg":"sender: closed","stream_id":"s7538sj5"}
+{"time":"2024-11-29T18:43:53.6482663+05:30","level":"INFO","msg":"stream: closed","id":"s7538sj5"}
